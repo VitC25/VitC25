@@ -1,1 +1,1 @@
-echo "# My Project Title" >> README.md
+![alt text](image.jpg)
