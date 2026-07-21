@@ -1,0 +1,251 @@
+OrderID,OrderDate,PublisherID,Genre,Quantity,UnitPrice,Sales,State,City,Region
+BM-02-430321,2024-02-17,Publisher_014,History,7,44.55,311.85,Nevada,Henderson,West
+BM-02-443837,2024-02-28,Publisher_045,Sci-Fi,5,16.05,80.25,New York,Syracuse,East
+BM-02-495006,2024-02-11,Publisher_016,Fantasy,4,21.78,87.12,Texas,Fort Worth,Central
+BM-02-483398,2024-02-11,Publisher_035,History,3,22.82,68.46,Massachusetts,Lowell,East
+BM-02-453358,2024-02-01,Publisher_032,Self-Help,4,32.7,130.8,Colorado,Colorado Springs,West
+BM-02-424033,2024-02-09,Publisher_045,Sci-Fi,7,5.93,41.51,Illinois,Springfield,Central
+BM-02-480283,2024-02-20,Publisher_034,Fiction,1,29.4,29.4,New York,Albany,East
+BM-02-441132,2024-02-01,Publisher_007,Fantasy,7,17.49,122.43,Massachusetts,Worcester,East
+BM-02-413927,2024-02-07,Publisher_035,Mystery,4,30.79,123.16,New York,New York,East
+BM-02-423632,2024-02-23,Publisher_036,Self-Help,3,30.42,91.26,Washington,Tacoma,West
+BM-02-446598,2024-02-01,Publisher_057,Sci-Fi,6,9.54,57.24,Colorado,Boulder,West
+BM-02-446360,2024-02-25,Publisher_009,Non-Fiction,5,29.47,147.35,Nevada,Henderson,West
+BM-02-476151,2024-02-07,Publisher_057,History,2,29.62,59.24,Florida,Tallahassee,South
+BM-02-414480,2024-02-22,Publisher_043,Self-Help,3,42.13,126.39,Nevada,Reno,West
+BM-02-490861,2024-02-06,Publisher_022,History,6,26.54,159.24,Florida,Tampa,South
+BM-02-428262,2024-02-06,Publisher_011,Sci-Fi,5,38.39,191.95,Florida,Miami,South
+BM-02-405594,2024-02-24,Publisher_049,Children,2,30.9,61.8,Florida,Tallahassee,South
+BM-02-424540,2024-02-28,Publisher_049,Non-Fiction,5,42.72,213.6,New York,Buffalo,East
+BM-02-464161,2024-02-01,Publisher_031,Sci-Fi,3,29.0,87.0,Florida,Tampa,South
+BM-02-450920,2024-02-12,Publisher_027,Mystery,4,25.14,100.56,Florida,Jacksonville,South
+BM-02-439385,2024-02-26,Publisher_013,Fiction,2,19.4,38.8,Nevada,Sparks,West
+BM-02-406878,2024-02-11,Publisher_042,Non-Fiction,2,43.95,87.9,Massachusetts,Boston,East
+BM-02-404443,2024-02-03,Publisher_020,Sci-Fi,4,9.78,39.12,New York,Syracuse,East
+BM-02-401696,2024-02-28,Publisher_015,Fiction,3,41.73,125.19,California,San Jose,West
+BM-02-476443,2024-02-18,Publisher_044,Sci-Fi,6,27.36,164.16,New York,Albany,East
+BM-02-476192,2024-02-06,Publisher_001,Self-Help,6,13.54,81.24,Illinois,Naperville,Central
+BM-02-453750,2024-02-24,Publisher_005,Self-Help,4,25.81,103.24,Colorado,Colorado Springs,West
+BM-02-433313,2024-02-17,Publisher_055,Mystery,2,30.13,60.26,California,San Diego,West
+BM-02-460183,2024-02-08,Publisher_047,Non-Fiction,7,32.24,225.68,Texas,Dallas,Central
+BM-02-491355,2024-02-15,Publisher_019,Children,1,35.11,35.11,Nevada,Henderson,West
+BM-02-425349,2024-02-07,Publisher_019,Sci-Fi,6,26.48,158.88,Illinois,Naperville,Central
+BM-02-482085,2024-02-06,Publisher_022,Self-Help,6,5.64,33.84,California,San Diego,West
+BM-02-419774,2024-02-27,Publisher_008,Fiction,5,20.19,100.95,Arizona,Phoenix,West
+BM-02-428578,2024-02-24,Publisher_011,Fiction,1,38.16,38.16,New York,Syracuse,East
+BM-02-425053,2024-02-25,Publisher_013,Non-Fiction,7,5.8,40.6,New York,Buffalo,East
+BM-02-425643,2024-02-25,Publisher_003,History,6,36.96,221.76,Washington,Seattle,West
+BM-02-435106,2024-02-12,Publisher_053,History,2,21.37,42.74,Massachusetts,Lowell,East
+BM-02-405517,2024-02-20,Publisher_019,Mystery,1,18.69,18.69,New York,Albany,East
+BM-02-491073,2024-02-10,Publisher_059,History,6,13.83,82.98,Florida,Miami,South
+BM-02-459744,2024-02-17,Publisher_047,Sci-Fi,1,17.79,17.79,New York,New York,East
+BM-02-421821,2024-02-26,Publisher_010,Children,4,20.66,82.64,Arizona,Tucson,West
+BM-02-465521,2024-02-11,Publisher_034,Fiction,1,11.96,11.96,New York,New York,East
+BM-02-438383,2024-02-23,Publisher_060,Self-Help,2,39.89,79.78,Massachusetts,Worcester,East
+BM-02-476825,2024-02-02,Publisher_007,Children,3,10.32,30.96,Colorado,Aurora,West
+BM-02-429598,2024-02-19,Publisher_015,Sci-Fi,5,40.49,202.45,Nevada,Reno,West
+BM-02-406525,2024-02-25,Publisher_001,Non-Fiction,1,24.21,24.21,Massachusetts,Worcester,East
+BM-02-450311,2024-02-15,Publisher_002,Children,2,14.48,28.96,Washington,Bellevue,West
+BM-02-437875,2024-02-16,Publisher_053,Sci-Fi,5,6.6,33.0,Florida,Tampa,South
+BM-02-483867,2024-02-20,Publisher_034,Fiction,6,37.07,222.42,Colorado,Denver,West
+BM-02-470709,2024-02-24,Publisher_041,Mystery,7,8.48,59.36,Florida,Tampa,South
+BM-02-474321,2024-02-18,Publisher_002,Fantasy,3,22.71,68.13,Illinois,Joliet,Central
+BM-02-427229,2024-02-17,Publisher_056,Self-Help,7,7.2,50.4,New York,Syracuse,East
+BM-02-403398,2024-02-19,Publisher_007,Fantasy,6,27.7,166.2,Colorado,Boulder,West
+BM-02-454805,2024-02-07,Publisher_033,Self-Help,5,26.16,130.8,Illinois,Naperville,Central
+BM-02-435889,2024-02-10,Publisher_019,History,6,38.69,232.14,New York,New York,East
+BM-02-443042,2024-02-18,Publisher_029,Children,4,28.64,114.56,Florida,Tampa,South
+BM-02-450904,2024-02-18,Publisher_034,Children,3,25.16,75.48,New York,New York,East
+BM-02-430653,2024-02-20,Publisher_058,Self-Help,2,13.36,26.72,Massachusetts,Cambridge,East
+BM-02-404451,2024-02-12,Publisher_048,Non-Fiction,3,30.86,92.58,Texas,Austin,Central
+BM-02-457909,2024-02-25,Publisher_009,Mystery,7,17.36,121.52,California,San Diego,West
+BM-02-413447,2024-02-04,Publisher_034,Self-Help,6,31.68,190.08,Nevada,Las Vegas,West
+BM-02-490016,2024-02-03,Publisher_021,Fiction,4,14.72,58.88,California,San Diego,West
+BM-02-499133,2024-02-03,Publisher_054,Mystery,3,25.9,77.7,Arizona,Scottsdale,West
+BM-02-425489,2024-02-19,Publisher_056,History,3,15.08,45.24,California,San Francisco,West
+BM-02-405584,2024-02-07,Publisher_033,Self-Help,6,11.08,66.48,Texas,Dallas,Central
+BM-02-419007,2024-02-24,Publisher_028,Mystery,3,41.3,123.9,California,Sacramento,West
+BM-02-450129,2024-02-20,Publisher_040,History,6,25.27,151.62,Texas,Austin,Central
+BM-02-462075,2024-02-26,Publisher_003,Children,3,22.24,66.72,Massachusetts,Boston,East
+BM-02-479492,2024-02-02,Publisher_054,Non-Fiction,3,29.2,87.6,Florida,Jacksonville,South
+BM-02-411794,2024-02-16,Publisher_059,Non-Fiction,5,41.17,205.85,Massachusetts,Worcester,East
+BM-02-491304,2024-02-13,Publisher_039,History,4,9.61,38.44,Arizona,Phoenix,West
+BM-02-437887,2024-02-05,Publisher_043,Children,2,14.76,29.52,Colorado,Denver,West
+BM-02-441566,2024-02-03,Publisher_008,History,6,10.07,60.42,Texas,Houston,Central
+BM-02-421914,2024-02-12,Publisher_031,Fiction,3,31.74,95.22,Illinois,Naperville,Central
+BM-02-416201,2024-02-07,Publisher_022,Self-Help,2,9.25,18.5,California,Los Angeles,West
+BM-02-475071,2024-02-02,Publisher_060,Fantasy,5,5.31,26.55,Illinois,Aurora,Central
+BM-02-420085,2024-02-17,Publisher_044,Children,5,18.2,91.0,California,Los Angeles,West
+BM-02-438559,2024-02-02,Publisher_019,Fiction,1,30.48,30.48,Nevada,Sparks,West
+BM-02-413485,2024-02-03,Publisher_047,Self-Help,7,16.6,116.2,Arizona,Mesa,West
+BM-02-429019,2024-02-17,Publisher_049,Children,3,32.97,98.91,Massachusetts,Cambridge,East
+BM-02-495005,2024-02-08,Publisher_039,Non-Fiction,6,24.86,149.16,Washington,Everett,West
+BM-02-408938,2024-02-05,Publisher_024,Non-Fiction,3,24.66,73.98,California,Sacramento,West
+BM-02-422291,2024-02-08,Publisher_044,Fiction,2,26.34,52.68,Florida,Orlando,South
+BM-02-492902,2024-02-21,Publisher_030,History,3,43.26,129.78,Massachusetts,Lowell,East
+BM-02-481285,2024-02-01,Publisher_050,Sci-Fi,6,37.92,227.52,Texas,San Antonio,Central
+BM-02-403384,2024-02-19,Publisher_050,Self-Help,7,23.42,163.94,Colorado,Denver,West
+BM-02-418512,2024-02-03,Publisher_006,Mystery,4,33.0,132.0,California,Sacramento,West
+BM-02-456318,2024-02-05,Publisher_051,Fantasy,5,26.6,133.0,Illinois,Joliet,Central
+BM-02-401218,2024-02-25,Publisher_045,History,3,15.89,47.67,Florida,Tallahassee,South
+BM-02-408395,2024-02-09,Publisher_022,Sci-Fi,4,43.71,174.84,Nevada,Reno,West
+BM-02-400737,2024-02-10,Publisher_037,Fiction,5,34.82,174.1,Washington,Spokane,West
+BM-02-482696,2024-02-07,Publisher_012,Fantasy,4,25.71,102.84,New York,Albany,East
+BM-02-412510,2024-02-14,Publisher_059,Fantasy,2,38.44,76.88,Massachusetts,Springfield,East
+BM-02-432090,2024-02-14,Publisher_043,Self-Help,4,37.98,151.92,Nevada,North Las Vegas,West
+BM-02-408484,2024-02-05,Publisher_059,Self-Help,1,18.46,18.46,Arizona,Scottsdale,West
+BM-02-439729,2024-02-24,Publisher_056,History,1,26.0,26.0,Washington,Spokane,West
+BM-02-495433,2024-02-26,Publisher_054,Mystery,7,29.53,206.71,Florida,Tampa,South
+BM-02-449254,2024-02-07,Publisher_031,Fantasy,1,15.73,15.73,Florida,Jacksonville,South
+BM-02-439733,2024-02-19,Publisher_027,Fantasy,2,16.53,33.06,Illinois,Joliet,Central
+BM-02-497927,2024-02-22,Publisher_055,Fiction,7,10.92,76.44,California,Sacramento,West
+BM-02-426269,2024-02-26,Publisher_050,Fiction,2,26.55,53.1,Texas,Fort Worth,Central
+BM-02-466101,2024-02-07,Publisher_037,History,6,28.81,172.86,Colorado,Denver,West
+BM-02-495786,2024-02-19,Publisher_013,History,7,22.82,159.74,Colorado,Denver,West
+BM-02-464591,2024-02-07,Publisher_006,Sci-Fi,5,36.73,183.65,Florida,Orlando,South
+BM-02-468104,2024-02-11,Publisher_008,Self-Help,7,16.34,114.38,Arizona,Mesa,West
+BM-02-490086,2024-02-02,Publisher_002,Sci-Fi,5,27.63,138.15,Washington,Seattle,West
+BM-02-401420,2024-02-28,Publisher_048,Self-Help,4,21.07,84.28,Colorado,Fort Collins,West
+BM-02-478719,2024-02-09,Publisher_006,Mystery,4,15.73,62.92,Washington,Seattle,West
+BM-02-468084,2024-02-02,Publisher_016,Fantasy,6,7.67,46.02,Texas,Houston,Central
+BM-02-436933,2024-02-08,Publisher_059,Fantasy,5,12.85,64.25,Colorado,Fort Collins,West
+BM-02-456269,2024-02-23,Publisher_025,Non-Fiction,1,10.17,10.17,New York,Albany,East
+BM-02-452413,2024-02-17,Publisher_027,Mystery,4,39.0,156.0,California,San Francisco,West
+BM-02-447561,2024-02-23,Publisher_051,Fantasy,4,39.62,158.48,California,San Diego,West
+BM-02-495144,2024-02-10,Publisher_019,Children,6,18.07,108.42,New York,Albany,East
+BM-02-438208,2024-02-21,Publisher_012,Self-Help,7,36.75,257.25,Illinois,Springfield,Central
+BM-02-431295,2024-02-03,Publisher_029,History,2,36.97,73.94,Colorado,Aurora,West
+BM-02-466590,2024-02-18,Publisher_012,Sci-Fi,1,34.7,34.7,Colorado,Boulder,West
+BM-02-484936,2024-02-02,Publisher_025,Fantasy,3,34.91,104.73,Illinois,Chicago,Central
+BM-02-437164,2024-02-15,Publisher_042,Children,1,33.86,33.86,New York,New York,East
+BM-02-444364,2024-02-05,Publisher_057,Mystery,2,34.39,68.78,Nevada,Reno,West
+BM-02-490425,2024-02-17,Publisher_033,History,6,34.86,209.16,New York,Syracuse,East
+BM-02-496103,2024-02-07,Publisher_006,Fiction,1,44.97,44.97,Colorado,Denver,West
+BM-02-483981,2024-02-28,Publisher_002,Self-Help,2,38.22,76.44,New York,Buffalo,East
+BM-02-483001,2024-02-26,Publisher_003,Sci-Fi,5,8.51,42.55,Washington,Tacoma,West
+BM-02-445180,2024-02-06,Publisher_057,Fantasy,5,37.76,188.8,Nevada,North Las Vegas,West
+BM-02-447991,2024-02-14,Publisher_033,Sci-Fi,1,14.73,14.73,Arizona,Phoenix,West
+BM-02-442465,2024-02-24,Publisher_024,Non-Fiction,5,20.1,100.5,Texas,Fort Worth,Central
+BM-02-471799,2024-02-24,Publisher_050,Fiction,2,26.63,53.26,Illinois,Aurora,Central
+BM-02-421136,2024-02-16,Publisher_001,Mystery,1,37.7,37.7,New York,Rochester,East
+BM-02-403964,2024-02-16,Publisher_013,History,7,25.07,175.49,California,San Jose,West
+BM-02-447888,2024-02-11,Publisher_015,Fiction,1,9.37,9.37,Arizona,Chandler,West
+BM-02-402300,2024-02-25,Publisher_013,Sci-Fi,7,42.91,300.37,Colorado,Denver,West
+BM-02-455650,2024-02-07,Publisher_051,Sci-Fi,7,26.16,183.12,Texas,Dallas,Central
+BM-02-415301,2024-02-02,Publisher_057,Non-Fiction,7,38.05,266.35,California,Los Angeles,West
+BM-02-464507,2024-02-11,Publisher_011,Children,5,14.72,73.6,Colorado,Colorado Springs,West
+BM-02-435573,2024-02-14,Publisher_021,Mystery,1,10.76,10.76,Arizona,Tucson,West
+BM-02-430323,2024-02-11,Publisher_046,History,6,43.74,262.44,Arizona,Scottsdale,West
+BM-02-436277,2024-02-18,Publisher_014,Mystery,3,17.05,51.15,Texas,Houston,Central
+BM-02-482840,2024-02-01,Publisher_043,Sci-Fi,5,13.43,67.15,California,Sacramento,West
+BM-02-479924,2024-02-08,Publisher_008,Children,1,15.57,15.57,New York,Syracuse,East
+BM-02-457346,2024-02-26,Publisher_001,Fantasy,7,33.83,236.81,Florida,Orlando,South
+BM-02-427281,2024-02-08,Publisher_046,Non-Fiction,1,12.63,12.63,Massachusetts,Worcester,East
+BM-02-433278,2024-02-26,Publisher_010,Children,6,13.53,81.18,Florida,Miami,South
+BM-02-447358,2024-02-03,Publisher_041,Fiction,7,14.87,104.09,Nevada,Reno,West
+BM-02-413537,2024-02-09,Publisher_016,Mystery,4,36.47,145.88,Illinois,Joliet,Central
+BM-02-435979,2024-02-02,Publisher_056,Non-Fiction,5,9.19,45.95,Nevada,Reno,West
+BM-02-453757,2024-02-06,Publisher_056,History,5,14.28,71.4,Arizona,Tucson,West
+BM-02-432513,2024-02-19,Publisher_016,History,6,31.38,188.28,Arizona,Tucson,West
+BM-02-450731,2024-02-13,Publisher_010,Non-Fiction,5,34.59,172.95,New York,Buffalo,East
+BM-02-422026,2024-02-13,Publisher_060,Children,4,41.34,165.36,California,San Jose,West
+BM-02-431487,2024-02-09,Publisher_023,Children,7,11.85,82.95,Arizona,Scottsdale,West
+BM-02-469428,2024-02-20,Publisher_049,Non-Fiction,2,34.66,69.32,California,Los Angeles,West
+BM-02-416996,2024-02-28,Publisher_054,Sci-Fi,7,27.18,190.26,Colorado,Denver,West
+BM-02-482399,2024-02-21,Publisher_018,Fiction,6,11.08,66.48,California,Sacramento,West
+BM-02-436993,2024-02-25,Publisher_016,Mystery,4,19.68,78.72,New York,New York,East
+BM-02-435009,2024-02-13,Publisher_037,Sci-Fi,4,8.58,34.32,Illinois,Joliet,Central
+BM-02-439203,2024-02-27,Publisher_006,Fiction,1,39.74,39.74,California,San Jose,West
+BM-02-445701,2024-02-22,Publisher_001,Mystery,1,44.53,44.53,California,Los Angeles,West
+BM-02-403176,2024-02-27,Publisher_002,History,5,36.2,181.0,Massachusetts,Worcester,East
+BM-02-435858,2024-02-21,Publisher_030,History,3,5.16,15.48,Illinois,Aurora,Central
+BM-02-460970,2024-02-21,Publisher_005,Fiction,1,15.95,15.95,Washington,Everett,West
+BM-02-435227,2024-02-24,Publisher_025,History,3,11.45,34.35,Illinois,Joliet,Central
+BM-02-470689,2024-02-25,Publisher_038,Fiction,5,25.38,126.9,Texas,Dallas,Central
+BM-02-448452,2024-02-21,Publisher_044,Fiction,3,15.84,47.52,Massachusetts,Lowell,East
+BM-02-486690,2024-02-23,Publisher_019,Children,7,29.03,203.21,Florida,Orlando,South
+BM-02-451041,2024-02-04,Publisher_038,History,4,30.07,120.28,Florida,Tampa,South
+BM-02-470212,2024-02-14,Publisher_060,Mystery,1,6.76,6.76,Colorado,Fort Collins,West
+BM-02-439645,2024-02-28,Publisher_044,Fantasy,6,5.39,32.34,California,Los Angeles,West
+BM-02-433087,2024-02-15,Publisher_034,Non-Fiction,7,38.33,268.31,Colorado,Aurora,West
+BM-02-463792,2024-02-13,Publisher_033,Mystery,4,32.03,128.12,Texas,Fort Worth,Central
+BM-02-430251,2024-02-16,Publisher_014,Non-Fiction,1,30.02,30.02,Nevada,Las Vegas,West
+BM-02-479199,2024-02-20,Publisher_008,Non-Fiction,5,24.06,120.3,Arizona,Scottsdale,West
+BM-02-419299,2024-02-18,Publisher_020,Self-Help,6,16.37,98.22,Illinois,Springfield,Central
+BM-02-468855,2024-02-05,Publisher_049,Fiction,4,8.01,32.04,Colorado,Boulder,West
+BM-02-434429,2024-02-08,Publisher_029,History,1,15.78,15.78,New York,New York,East
+BM-02-487659,2024-02-19,Publisher_022,Fiction,2,19.2,38.4,Massachusetts,Boston,East
+BM-02-480592,2024-02-15,Publisher_040,Sci-Fi,1,5.25,5.25,Massachusetts,Worcester,East
+BM-02-499408,2024-02-27,Publisher_017,History,1,39.27,39.27,California,Los Angeles,West
+BM-02-475968,2024-02-10,Publisher_004,Non-Fiction,3,12.78,38.34,Arizona,Mesa,West
+BM-02-434132,2024-02-27,Publisher_011,Sci-Fi,4,26.45,105.8,Florida,Miami,South
+BM-02-482644,2024-02-13,Publisher_037,Sci-Fi,4,17.87,71.48,Texas,Fort Worth,Central
+BM-02-497169,2024-02-01,Publisher_036,History,5,11.2,56.0,Colorado,Fort Collins,West
+BM-02-472644,2024-02-18,Publisher_013,Sci-Fi,4,12.83,51.32,Illinois,Chicago,Central
+BM-02-450708,2024-02-21,Publisher_046,Mystery,4,38.1,152.4,Washington,Spokane,West
+BM-02-448217,2024-02-14,Publisher_030,Fiction,5,38.81,194.05,New York,Buffalo,East
+BM-02-467701,2024-02-28,Publisher_026,Fantasy,5,26.62,133.1,Arizona,Tucson,West
+BM-02-422754,2024-02-03,Publisher_015,Sci-Fi,2,13.33,26.66,Florida,Tampa,South
+BM-02-409775,2024-02-05,Publisher_049,Children,1,10.49,10.49,Massachusetts,Lowell,East
+BM-02-450945,2024-02-08,Publisher_030,Mystery,7,17.4,121.8,Arizona,Tucson,West
+BM-02-481104,2024-02-17,Publisher_052,Mystery,6,36.6,219.6,Arizona,Chandler,West
+BM-02-439690,2024-02-12,Publisher_024,Sci-Fi,5,21.48,107.4,Nevada,Reno,West
+BM-02-448117,2024-02-06,Publisher_028,Children,5,10.23,51.15,New York,Buffalo,East
+BM-02-464949,2024-02-21,Publisher_018,Self-Help,1,6.66,6.66,Texas,Dallas,Central
+BM-02-446603,2024-02-23,Publisher_055,History,2,40.93,81.86,Nevada,Las Vegas,West
+BM-02-464115,2024-02-21,Publisher_047,Mystery,1,21.51,21.51,Florida,Orlando,South
+BM-02-432973,2024-02-14,Publisher_059,Fiction,6,5.92,35.52,Illinois,Naperville,Central
+BM-02-445743,2024-02-25,Publisher_026,Fantasy,3,38.45,115.35,New York,New York,East
+BM-02-402214,2024-02-23,Publisher_011,Self-Help,4,10.15,40.6,Massachusetts,Boston,East
+BM-02-486315,2024-02-16,Publisher_011,History,3,37.27,111.81,Nevada,Reno,West
+BM-02-472746,2024-02-06,Publisher_009,Fiction,1,29.98,29.98,Nevada,North Las Vegas,West
+BM-02-428170,2024-02-12,Publisher_009,Fantasy,4,9.88,39.52,Nevada,Sparks,West
+BM-02-461242,2024-02-28,Publisher_024,Sci-Fi,1,29.15,29.15,Texas,Houston,Central
+BM-02-447921,2024-02-18,Publisher_015,Non-Fiction,3,13.73,41.19,Illinois,Naperville,Central
+BM-02-490805,2024-02-25,Publisher_060,Sci-Fi,3,6.08,18.24,Colorado,Aurora,West
+BM-02-424075,2024-02-18,Publisher_030,Mystery,6,34.29,205.74,Illinois,Aurora,Central
+BM-02-434721,2024-02-03,Publisher_034,Children,7,12.95,90.65,Nevada,North Las Vegas,West
+BM-02-458132,2024-02-03,Publisher_010,History,1,43.59,43.59,Arizona,Scottsdale,West
+BM-02-403157,2024-02-28,Publisher_041,Children,4,11.17,44.68,Washington,Spokane,West
+BM-02-412493,2024-02-06,Publisher_003,Self-Help,1,31.61,31.61,Florida,Miami,South
+BM-02-461589,2024-02-27,Publisher_025,History,5,33.92,169.6,Massachusetts,Springfield,East
+BM-02-492416,2024-02-27,Publisher_059,Sci-Fi,2,34.57,69.14,Arizona,Mesa,West
+BM-02-420956,2024-02-24,Publisher_052,Children,4,42.55,170.2,Arizona,Mesa,West
+BM-02-451759,2024-02-02,Publisher_005,Fantasy,6,6.07,36.42,Illinois,Joliet,Central
+BM-02-451639,2024-02-23,Publisher_037,Children,7,35.66,249.62,Florida,Jacksonville,South
+BM-02-400352,2024-02-13,Publisher_010,Fiction,5,27.82,139.1,Texas,Austin,Central
+BM-02-474542,2024-02-20,Publisher_003,Non-Fiction,2,33.09,66.18,Arizona,Chandler,West
+BM-02-480419,2024-02-25,Publisher_058,Children,1,30.26,30.26,Colorado,Colorado Springs,West
+BM-02-490204,2024-02-13,Publisher_009,Non-Fiction,5,36.5,182.5,Massachusetts,Boston,East
+BM-02-494307,2024-02-21,Publisher_042,Fiction,2,30.19,60.38,Nevada,North Las Vegas,West
+BM-02-485755,2024-02-04,Publisher_043,Children,5,22.52,112.6,Illinois,Springfield,Central
+BM-02-466940,2024-02-09,Publisher_047,Fiction,3,36.74,110.22,Massachusetts,Lowell,East
+BM-02-495042,2024-02-07,Publisher_002,Non-Fiction,4,11.4,45.6,Washington,Seattle,West
+BM-02-441630,2024-02-15,Publisher_030,History,6,18.95,113.7,New York,New York,East
+BM-02-471642,2024-02-13,Publisher_060,Sci-Fi,2,8.56,17.12,Washington,Bellevue,West
+BM-02-445730,2024-02-16,Publisher_028,Non-Fiction,5,42.49,212.45,Washington,Tacoma,West
+BM-02-421800,2024-02-22,Publisher_023,Children,2,9.66,19.32,Arizona,Phoenix,West
+BM-02-423432,2024-02-10,Publisher_006,Fantasy,4,13.49,53.96,Florida,Tallahassee,South
+BM-02-462422,2024-02-28,Publisher_031,Fiction,2,24.79,49.58,California,San Francisco,West
+BM-02-490359,2024-02-16,Publisher_051,Self-Help,5,10.39,51.95,Nevada,North Las Vegas,West
+BM-02-455761,2024-02-14,Publisher_026,Mystery,1,20.7,20.7,Florida,Jacksonville,South
+BM-02-421568,2024-02-05,Publisher_024,Children,5,20.42,102.1,Florida,Jacksonville,South
+BM-02-487621,2024-02-23,Publisher_056,History,2,41.55,83.1,Massachusetts,Worcester,East
+BM-02-403245,2024-02-24,Publisher_046,History,4,21.71,86.84,Arizona,Mesa,West
+BM-02-425552,2024-02-19,Publisher_020,Self-Help,3,10.89,32.67,Illinois,Aurora,Central
+BM-02-478134,2024-02-22,Publisher_039,Sci-Fi,3,14.37,43.11,California,San Diego,West
+BM-02-407704,2024-02-09,Publisher_043,Self-Help,3,17.47,52.41,Massachusetts,Boston,East
+BM-02-452641,2024-02-06,Publisher_037,Fiction,3,26.78,80.34,New York,Rochester,East
+BM-02-404191,2024-02-18,Publisher_051,Fantasy,7,7.79,54.53,New York,Rochester,East
+BM-02-483502,2024-02-22,Publisher_028,Non-Fiction,6,10.92,65.52,California,San Francisco,West
+BM-02-400043,2024-02-16,Publisher_060,Sci-Fi,2,42.28,84.56,Arizona,Phoenix,West
+BM-02-460035,2024-02-03,Publisher_018,Children,6,40.92,245.52,Colorado,Colorado Springs,West
+BM-02-414553,2024-02-14,Publisher_010,Sci-Fi,6,17.48,104.88,Massachusetts,Boston,East
+BM-02-450560,2024-02-01,Publisher_007,Mystery,2,6.51,13.02,Florida,Miami,South
+BM-02-474369,2024-02-01,Publisher_011,Self-Help,3,27.59,82.77,California,San Diego,West
+BM-02-429492,2024-02-28,Publisher_041,Children,1,8.9,8.9,New York,New York,East
+BM-02-487587,2024-02-28,Publisher_035,History,6,21.3,127.8,Massachusetts,Lowell,East
+BM-02-496597,2024-02-11,Publisher_027,Fiction,6,21.08,126.48,Illinois,Springfield,Central
+BM-02-487515,2024-02-24,Publisher_028,Self-Help,6,17.54,105.24,Florida,Miami,South
+BM-02-432467,2024-02-04,Publisher_060,Sci-Fi,6,26.12,156.72,Texas,Houston,Central
+BM-02-420745,2024-02-16,Publisher_003,Fiction,6,13.77,82.62,Massachusetts,Worcester,East

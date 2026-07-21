@@ -1,0 +1,701 @@
+OrderID,OrderDate,PublisherID,BookTitle,Author,Genre,Format,Quantity,UnitPrice,Sales,Cost,Profit,Country,State,City,Region
+B3-300000,2024-06-30,Publisher_044,Book_367,Author_66,Mystery,Paperback,6,37.29,223.74,167.27,56.47,United States,Washington,Everett,West
+B3-300001,2024-05-31,Publisher_012,Book_2214,Author_1443,Self-Help,Paperback,7,8.72,61.04,44.74,16.3,United States,Colorado,Colorado Springs,West
+B3-300002,2022-04-12,Publisher_002,Book_2303,Author_1847,Self-Help,Paperback,4,29.26,117.04,71.43,45.61,United States,Arizona,Tucson,West
+B3-300003,2020-04-14,Publisher_053,Book_213,Author_83,Self-Help,eBook,3,42.42,127.26,86.67,40.59,United States,Texas,San Antonio,Central
+B3-300004,2024-08-14,Publisher_008,Book_1307,Author_251,Children,Audiobook,4,29.08,116.32,73.13,43.19,United States,Massachusetts,Springfield,East
+B3-300005,2022-06-16,Publisher_020,Book_904,Author_2416,Sci-Fi,Paperback,7,18.98,132.86,76.79,56.07,United States,Texas,Fort Worth,Central
+B3-300006,2020-08-07,Publisher_059,Book_1321,Author_2644,Children,Paperback,5,44.49,222.45,136.14,86.31,United States,Arizona,Phoenix,West
+B3-300007,2022-07-28,Publisher_059,Book_1785,Author_697,Self-Help,Audiobook,1,20.8,20.8,16.11,4.69,United States,California,San Jose,West
+B3-300008,2021-10-08,Publisher_006,Book_4781,Author_2347,Self-Help,Paperback,7,44.64,312.48,216.41,96.07,United States,Massachusetts,Springfield,East
+B3-300009,2021-08-07,Publisher_026,Book_3683,Author_2861,Sci-Fi,Paperback,5,42.26,211.3,111.28,100.02,United States,Nevada,North Las Vegas,West
+B3-300010,2020-10-09,Publisher_021,Book_2474,Author_547,Self-Help,Paperback,6,38.14,228.84,126.73,102.11,United States,Florida,Jacksonville,South
+B3-300011,2020-02-25,Publisher_030,Book_4426,Author_1704,Non-Fiction,Paperback,7,37.88,265.16,132.63,132.53,United States,Florida,Tallahassee,South
+B3-300012,2024-04-27,Publisher_023,Book_1178,Author_178,Fantasy,eBook,2,30.71,61.42,48.25,13.17,United States,Massachusetts,Springfield,East
+B3-300013,2022-03-03,Publisher_014,Book_3301,Author_1863,Non-Fiction,eBook,6,8.49,50.94,34.91,16.03,United States,Nevada,Las Vegas,West
+B3-300014,2021-02-09,Publisher_050,Book_4338,Author_2866,Self-Help,Paperback,5,24.88,124.4,65.11,59.29,United States,Florida,Miami,South
+B3-300015,2021-05-11,Publisher_001,Book_56,Author_753,Children,eBook,2,21.18,42.36,29.38,12.98,United States,Illinois,Joliet,Central
+B3-300016,2022-06-10,Publisher_015,Book_287,Author_534,Non-Fiction,Hardcover,2,35.57,71.14,47.73,23.41,United States,California,San Diego,West
+B3-300017,2020-10-13,Publisher_014,Book_624,Author_2259,Fantasy,Hardcover,5,16.26,81.3,43.69,37.61,United States,Nevada,North Las Vegas,West
+B3-300018,2022-02-09,Publisher_038,Book_362,Author_1848,Children,Paperback,4,14.41,57.64,29.73,27.91,United States,Florida,Tallahassee,South
+B3-300019,2020-06-22,Publisher_042,Book_1667,Author_228,Self-Help,Audiobook,5,23.74,118.7,90.59,28.11,United States,Washington,Tacoma,West
+B3-300020,2023-06-01,Publisher_003,Book_1197,Author_1737,Non-Fiction,Paperback,2,11.16,22.32,16.01,6.31,United States,Arizona,Phoenix,West
+B3-300021,2021-12-17,Publisher_028,Book_3203,Author_2869,Non-Fiction,Paperback,5,24.27,121.35,81.72,39.63,United States,Massachusetts,Boston,East
+B3-300022,2023-10-09,Publisher_045,Book_4400,Author_2878,Fantasy,eBook,2,8.34,16.68,8.85,7.83,United States,Colorado,Colorado Springs,West
+B3-300023,2022-02-18,Publisher_015,Book_242,Author_1579,Mystery,Paperback,4,33.74,134.96,76.69,58.27,United States,Arizona,Tucson,West
+B3-300024,2023-09-25,Publisher_001,Book_1242,Author_1934,Self-Help,Audiobook,2,34.58,69.16,54.25,14.91,United States,Arizona,Scottsdale,West
+B3-300025,2020-05-01,Publisher_060,Book_4530,Author_331,History,Paperback,4,41.71,166.84,125.01,41.83,United States,Massachusetts,Springfield,East
+B3-300026,2023-09-06,Publisher_016,Book_2523,Author_1473,History,Paperback,4,8.04,32.16,25.35,6.81,United States,New York,Buffalo,East
+B3-300027,2021-03-15,Publisher_017,Book_1408,Author_2154,History,Paperback,3,41.03,123.09,90.07,33.02,United States,Colorado,Boulder,West
+B3-300028,2021-07-21,Publisher_059,Book_4357,Author_1271,Self-Help,Hardcover,7,34.6,242.2,176.83,65.37,United States,Washington,Everett,West
+B3-300029,2020-03-01,Publisher_012,Book_1658,Author_845,Mystery,Paperback,7,11.59,81.13,60.77,20.36,United States,Florida,Orlando,South
+B3-300030,2020-08-26,Publisher_003,Book_4160,Author_1044,Fantasy,Paperback,5,24.41,122.05,63.74,58.31,United States,Washington,Spokane,West
+B3-300031,2020-03-13,Publisher_004,Book_1670,Author_938,Non-Fiction,Paperback,7,35.26,246.82,163.06,83.76,United States,Arizona,Chandler,West
+B3-300032,2020-03-02,Publisher_039,Book_2943,Author_918,Sci-Fi,Paperback,2,6.3,12.6,9.89,2.71,United States,New York,Syracuse,East
+B3-300033,2022-12-15,Publisher_005,Book_2368,Author_1834,Fantasy,Paperback,4,17.3,69.2,42.2,27.0,United States,Massachusetts,Springfield,East
+B3-300034,2023-04-28,Publisher_010,Book_2015,Author_2779,Self-Help,Paperback,6,26.22,157.32,115.89,41.43,United States,Nevada,Sparks,West
+B3-300035,2020-11-28,Publisher_025,Book_2303,Author_88,Non-Fiction,Paperback,6,16.84,101.04,79.38,21.66,United States,Massachusetts,Lowell,East
+B3-300036,2023-08-08,Publisher_038,Book_3042,Author_2592,History,Paperback,3,23.19,69.57,35.35,34.22,United States,Nevada,Henderson,West
+B3-300037,2023-08-16,Publisher_012,Book_4511,Author_1653,Fantasy,Paperback,2,11.9,23.8,18.64,5.16,United States,Arizona,Scottsdale,West
+B3-300038,2024-12-02,Publisher_012,Book_3167,Author_334,Children,Paperback,1,12.97,12.97,7.45,5.52,United States,Arizona,Tucson,West
+B3-300039,2020-05-13,Publisher_008,Book_1663,Author_2724,Fantasy,Audiobook,6,15.16,90.96,69.69,21.27,United States,Washington,Tacoma,West
+B3-300040,2023-03-06,Publisher_011,Book_3694,Author_2414,Non-Fiction,Paperback,1,7.95,7.95,5.42,2.53,United States,Colorado,Denver,West
+B3-300041,2021-04-18,Publisher_057,Book_508,Author_2059,History,Hardcover,1,41.61,41.61,30.08,11.53,United States,California,San Jose,West
+B3-300042,2022-05-26,Publisher_018,Book_1814,Author_415,Children,Hardcover,4,6.88,27.52,13.99,13.53,United States,Massachusetts,Springfield,East
+B3-300043,2023-01-06,Publisher_048,Book_2981,Author_1442,Children,Hardcover,1,44.56,44.56,32.72,11.84,United States,Texas,Dallas,Central
+B3-300044,2022-04-29,Publisher_034,Book_2894,Author_2187,Sci-Fi,Hardcover,2,27.3,54.6,32.35,22.25,United States,Texas,Dallas,Central
+B3-300045,2022-02-19,Publisher_032,Book_2576,Author_625,Children,Paperback,1,34.48,34.48,22.44,12.04,United States,Florida,Jacksonville,South
+B3-300046,2023-01-05,Publisher_043,Book_1585,Author_1556,Self-Help,Hardcover,5,27.85,139.25,79.6,59.65,United States,Colorado,Boulder,West
+B3-300047,2021-11-30,Publisher_050,Book_4723,Author_414,Fantasy,eBook,7,14.69,102.83,79.5,23.33,United States,Washington,Everett,West
+B3-300048,2021-09-16,Publisher_011,Book_4889,Author_2857,Fantasy,Hardcover,6,24.79,148.74,79.32,69.42,United States,Massachusetts,Boston,East
+B3-300049,2023-10-11,Publisher_053,Book_2763,Author_1167,History,eBook,3,26.39,79.17,41.29,37.88,United States,California,San Diego,West
+B3-300050,2020-03-04,Publisher_011,Book_1723,Author_262,Self-Help,eBook,2,10.64,21.28,14.6,6.68,United States,Washington,Seattle,West
+B3-300051,2020-07-15,Publisher_049,Book_1876,Author_1994,Fiction,Paperback,1,43.01,43.01,25.11,17.9,United States,Nevada,Sparks,West
+B3-300052,2020-03-27,Publisher_050,Book_1949,Author_377,History,Paperback,1,31.32,31.32,18.23,13.09,United States,Massachusetts,Lowell,East
+B3-300053,2022-05-23,Publisher_057,Book_3660,Author_2180,Self-Help,Hardcover,6,17.37,104.22,66.83,37.39,United States,California,Sacramento,West
+B3-300054,2022-08-08,Publisher_028,Book_4933,Author_1947,Mystery,Paperback,3,16.4,49.2,28.58,20.62,United States,California,San Jose,West
+B3-300055,2024-10-10,Publisher_026,Book_4474,Author_1308,Non-Fiction,Paperback,3,12.61,37.83,26.89,10.94,United States,Massachusetts,Cambridge,East
+B3-300056,2024-08-13,Publisher_053,Book_1907,Author_2280,History,eBook,7,43.26,302.82,215.44,87.38,United States,Illinois,Naperville,Central
+B3-300057,2023-02-16,Publisher_058,Book_3599,Author_2412,Fiction,Hardcover,5,21.53,107.65,64.69,42.96,United States,Massachusetts,Springfield,East
+B3-300058,2020-07-03,Publisher_013,Book_504,Author_287,Mystery,Paperback,5,30.43,152.15,82.71,69.44,United States,Texas,Austin,Central
+B3-300059,2024-10-14,Publisher_037,Book_667,Author_1503,Children,Paperback,3,9.47,28.41,21.81,6.6,United States,Arizona,Chandler,West
+B3-300060,2021-12-14,Publisher_033,Book_1779,Author_2474,Self-Help,Audiobook,5,6.6,33.0,20.78,12.22,United States,Florida,Miami,South
+B3-300061,2020-04-04,Publisher_023,Book_2111,Author_2286,Fiction,Paperback,7,33.46,234.22,145.52,88.7,United States,Washington,Spokane,West
+B3-300062,2021-10-13,Publisher_032,Book_3121,Author_112,Children,Paperback,7,23.48,164.36,97.85,66.51,United States,New York,Buffalo,East
+B3-300063,2021-05-14,Publisher_031,Book_2055,Author_1938,Fantasy,eBook,5,40.65,203.25,141.24,62.01,United States,New York,Buffalo,East
+B3-300064,2021-07-05,Publisher_010,Book_285,Author_258,Sci-Fi,Hardcover,7,18.17,127.19,96.4,30.79,United States,California,San Diego,West
+B3-300065,2023-01-25,Publisher_022,Book_249,Author_1446,Non-Fiction,Audiobook,4,38.77,155.08,119.64,35.44,United States,Florida,Jacksonville,South
+B3-300066,2024-04-09,Publisher_005,Book_4737,Author_833,Sci-Fi,eBook,4,27.72,110.88,85.25,25.63,United States,Washington,Tacoma,West
+B3-300067,2020-01-19,Publisher_034,Book_994,Author_462,Fantasy,eBook,3,35.54,106.62,68.56,38.06,United States,New York,Buffalo,East
+B3-300068,2022-06-18,Publisher_040,Book_3560,Author_414,Children,Audiobook,4,32.23,128.92,81.33,47.59,United States,Illinois,Joliet,Central
+B3-300069,2022-08-14,Publisher_044,Book_1086,Author_378,Mystery,Paperback,1,18.04,18.04,9.69,8.35,United States,Washington,Bellevue,West
+B3-300070,2022-02-07,Publisher_046,Book_1767,Author_2756,Non-Fiction,Hardcover,2,33.35,66.7,42.56,24.14,United States,Nevada,Sparks,West
+B3-300071,2021-11-21,Publisher_023,Book_4823,Author_1353,Sci-Fi,Paperback,6,12.77,76.62,53.1,23.52,United States,Massachusetts,Cambridge,East
+B3-300072,2022-09-17,Publisher_008,Book_4247,Author_2148,Sci-Fi,eBook,2,24.05,48.1,25.45,22.65,United States,Arizona,Chandler,West
+B3-300073,2022-05-21,Publisher_054,Book_3070,Author_943,Children,eBook,7,10.84,75.88,39.29,36.59,United States,Florida,Orlando,South
+B3-300074,2024-01-11,Publisher_042,Book_943,Author_2843,Children,Hardcover,3,36.29,108.87,61.43,47.44,United States,Florida,Orlando,South
+B3-300075,2021-09-12,Publisher_047,Book_1465,Author_1699,History,Paperback,3,37.44,112.32,83.92,28.4,United States,Washington,Bellevue,West
+B3-300076,2022-10-02,Publisher_059,Book_3818,Author_138,Children,Hardcover,4,20.02,80.08,51.1,28.98,United States,Colorado,Aurora,West
+B3-300077,2022-05-23,Publisher_040,Book_1815,Author_2524,Fiction,Paperback,6,44.43,266.58,153.54,113.04,United States,New York,Albany,East
+B3-300078,2024-10-23,Publisher_008,Book_2989,Author_346,Self-Help,Paperback,2,13.53,27.06,17.99,9.07,United States,Washington,Bellevue,West
+B3-300079,2021-05-26,Publisher_010,Book_427,Author_1453,Sci-Fi,Hardcover,5,28.39,141.95,93.89,48.06,United States,Arizona,Phoenix,West
+B3-300080,2023-05-20,Publisher_052,Book_4185,Author_269,Non-Fiction,Paperback,4,25.46,101.84,56.96,44.88,United States,Nevada,Las Vegas,West
+B3-300081,2022-06-11,Publisher_003,Book_4207,Author_1229,Mystery,eBook,7,16.7,116.9,64.22,52.68,United States,Texas,Fort Worth,Central
+B3-300082,2024-03-29,Publisher_024,Book_807,Author_1490,Fiction,Paperback,3,40.74,122.22,95.11,27.11,United States,Massachusetts,Worcester,East
+B3-300083,2021-07-26,Publisher_029,Book_1189,Author_2527,Non-Fiction,Paperback,5,35.4,177.0,139.98,37.02,United States,Washington,Spokane,West
+B3-300084,2020-12-03,Publisher_013,Book_4892,Author_1527,Mystery,Audiobook,6,19.31,115.86,60.23,55.63,United States,New York,New York,East
+B3-300085,2022-11-15,Publisher_041,Book_2786,Author_2112,Non-Fiction,Paperback,1,30.52,30.52,21.86,8.66,United States,Illinois,Springfield,Central
+B3-300086,2021-02-04,Publisher_055,Book_1253,Author_2597,Sci-Fi,Paperback,4,6.6,26.4,19.37,7.03,United States,California,Los Angeles,West
+B3-300087,2020-04-25,Publisher_049,Book_4018,Author_2654,Children,eBook,7,36.88,258.16,168.22,89.94,United States,California,San Francisco,West
+B3-300088,2022-12-30,Publisher_018,Book_2378,Author_2115,Non-Fiction,Paperback,3,12.12,36.36,27.4,8.96,United States,Illinois,Aurora,Central
+B3-300089,2020-03-14,Publisher_015,Book_1384,Author_78,Non-Fiction,eBook,1,43.41,43.41,25.34,18.07,United States,Texas,San Antonio,Central
+B3-300090,2024-12-28,Publisher_023,Book_3687,Author_2639,Sci-Fi,Hardcover,3,37.92,113.76,78.4,35.36,United States,Texas,San Antonio,Central
+B3-300091,2022-05-30,Publisher_047,Book_3324,Author_787,Self-Help,Hardcover,5,5.27,26.35,18.7,7.65,United States,Washington,Bellevue,West
+B3-300092,2021-08-18,Publisher_007,Book_417,Author_1201,Fiction,Audiobook,1,10.3,10.3,6.88,3.42,United States,California,Los Angeles,West
+B3-300093,2024-08-23,Publisher_049,Book_505,Author_1923,Non-Fiction,Paperback,3,24.82,74.46,52.19,22.27,United States,Washington,Tacoma,West
+B3-300094,2023-12-15,Publisher_043,Book_3509,Author_1472,Sci-Fi,Paperback,3,36.39,109.17,81.23,27.94,United States,Nevada,Sparks,West
+B3-300095,2021-05-17,Publisher_048,Book_1384,Author_734,Fantasy,Hardcover,4,8.5,34.0,27.03,6.97,United States,New York,Albany,East
+B3-300096,2021-03-10,Publisher_041,Book_337,Author_2732,Fiction,Paperback,4,26.13,104.52,82.2,22.32,United States,Arizona,Chandler,West
+B3-300097,2024-02-26,Publisher_023,Book_929,Author_814,Mystery,Hardcover,3,40.45,121.35,74.44,46.91,United States,Massachusetts,Lowell,East
+B3-300098,2024-04-10,Publisher_022,Book_3931,Author_2173,Mystery,Paperback,7,15.81,110.67,72.27,38.4,United States,Washington,Bellevue,West
+B3-300099,2024-02-16,Publisher_048,Book_3975,Author_2356,Mystery,Audiobook,3,12.06,36.18,20.21,15.97,United States,Texas,Fort Worth,Central
+B3-300100,2024-08-05,Publisher_023,Book_4759,Author_1397,Fiction,Hardcover,3,22.05,66.15,39.76,26.39,United States,Texas,San Antonio,Central
+B3-300101,2022-12-31,Publisher_033,Book_4340,Author_1591,Non-Fiction,Paperback,4,9.43,37.72,20.6,17.12,United States,Washington,Tacoma,West
+B3-300102,2023-10-17,Publisher_038,Book_2740,Author_1295,Sci-Fi,Audiobook,3,11.3,33.9,25.18,8.72,United States,New York,Albany,East
+B3-300103,2023-01-23,Publisher_012,Book_2074,Author_1171,Children,Audiobook,4,31.15,124.6,80.82,43.78,United States,Nevada,Las Vegas,West
+B3-300104,2023-10-20,Publisher_043,Book_3173,Author_1840,Children,Paperback,6,30.84,185.04,141.75,43.29,United States,Nevada,Sparks,West
+B3-300105,2022-01-08,Publisher_035,Book_1566,Author_1028,Fiction,Hardcover,4,12.91,51.64,33.81,17.83,United States,Massachusetts,Springfield,East
+B3-300106,2024-09-14,Publisher_037,Book_2056,Author_2277,Fantasy,Paperback,4,39.05,156.2,120.01,36.19,United States,New York,Rochester,East
+B3-300107,2023-10-24,Publisher_003,Book_3459,Author_2994,Children,Audiobook,5,22.01,110.05,59.93,50.12,United States,Massachusetts,Boston,East
+B3-300108,2021-03-12,Publisher_059,Book_3821,Author_116,Non-Fiction,Hardcover,5,22.38,111.9,73.3,38.6,United States,Washington,Everett,West
+B3-300109,2022-05-31,Publisher_052,Book_3445,Author_2231,Fiction,Paperback,4,18.73,74.92,38.09,36.83,United States,Texas,Austin,Central
+B3-300110,2024-01-14,Publisher_039,Book_1323,Author_1308,Mystery,Paperback,5,27.89,139.45,93.05,46.4,United States,Washington,Tacoma,West
+B3-300111,2024-03-04,Publisher_030,Book_1480,Author_1874,Fantasy,Paperback,6,10.32,61.92,47.84,14.08,United States,Washington,Spokane,West
+B3-300112,2024-01-31,Publisher_040,Book_3704,Author_1949,Sci-Fi,eBook,6,27.71,166.26,128.98,37.28,United States,Massachusetts,Lowell,East
+B3-300113,2023-09-29,Publisher_010,Book_4637,Author_17,Children,Hardcover,7,32.48,227.36,175.64,51.72,United States,Colorado,Colorado Springs,West
+B3-300114,2022-03-16,Publisher_043,Book_1997,Author_2472,Fiction,eBook,2,32.56,65.12,35.12,30.0,United States,Arizona,Chandler,West
+B3-300115,2022-01-19,Publisher_030,Book_3833,Author_900,Mystery,Hardcover,7,17.19,120.33,74.71,45.62,United States,Washington,Spokane,West
+B3-300116,2023-11-15,Publisher_049,Book_3093,Author_1625,Non-Fiction,Paperback,2,21.28,42.56,31.19,11.37,United States,New York,New York,East
+B3-300117,2023-12-08,Publisher_038,Book_1135,Author_2412,History,eBook,6,5.96,35.76,26.63,9.13,United States,Florida,Orlando,South
+B3-300118,2021-06-15,Publisher_006,Book_3050,Author_1931,Fiction,Audiobook,3,27.93,83.79,43.37,40.42,United States,Nevada,Reno,West
+B3-300119,2022-09-14,Publisher_041,Book_4684,Author_922,Fantasy,Hardcover,1,31.8,31.8,16.47,15.33,United States,Massachusetts,Springfield,East
+B3-300120,2022-05-17,Publisher_013,Book_64,Author_2687,Fiction,Paperback,4,15.45,61.8,43.63,18.17,United States,Colorado,Colorado Springs,West
+B3-300121,2023-05-11,Publisher_048,Book_1918,Author_2381,Non-Fiction,Audiobook,2,8.01,16.02,11.7,4.32,United States,Florida,Orlando,South
+B3-300122,2020-06-23,Publisher_057,Book_1651,Author_597,Fantasy,Paperback,4,39.42,157.68,91.51,66.17,United States,Texas,Houston,Central
+B3-300123,2022-10-02,Publisher_054,Book_4502,Author_2263,Fantasy,Paperback,3,22.64,67.92,49.62,18.3,United States,Arizona,Mesa,West
+B3-300124,2020-07-26,Publisher_017,Book_1960,Author_2211,Non-Fiction,eBook,2,32.6,65.2,48.6,16.6,United States,California,Los Angeles,West
+B3-300125,2022-05-05,Publisher_060,Book_1354,Author_1021,Children,Hardcover,2,40.82,81.64,43.33,38.31,United States,New York,New York,East
+B3-300126,2024-01-06,Publisher_037,Book_370,Author_1770,Mystery,Paperback,6,8.39,50.34,38.14,12.2,United States,Arizona,Mesa,West
+B3-300127,2021-08-19,Publisher_059,Book_1542,Author_2621,Children,eBook,3,14.11,42.33,23.49,18.84,United States,Nevada,Sparks,West
+B3-300128,2020-04-15,Publisher_059,Book_76,Author_520,History,Audiobook,2,23.95,47.9,34.98,12.92,United States,Colorado,Denver,West
+B3-300129,2020-05-31,Publisher_042,Book_2864,Author_38,Sci-Fi,Hardcover,6,20.42,122.52,75.73,46.79,United States,Nevada,Reno,West
+B3-300130,2020-01-05,Publisher_046,Book_1674,Author_2247,Children,Audiobook,7,10.98,76.86,39.38,37.48,United States,Nevada,Las Vegas,West
+B3-300131,2023-04-28,Publisher_057,Book_1116,Author_328,History,Hardcover,1,28.28,28.28,18.27,10.01,United States,New York,New York,East
+B3-300132,2023-07-01,Publisher_035,Book_4571,Author_60,Self-Help,Audiobook,5,32.37,161.85,94.06,67.79,United States,Washington,Spokane,West
+B3-300133,2020-06-12,Publisher_046,Book_4013,Author_1524,Non-Fiction,Paperback,1,12.67,12.67,9.97,2.7,United States,Illinois,Naperville,Central
+B3-300134,2021-07-29,Publisher_048,Book_230,Author_1871,Fantasy,eBook,1,11.6,11.6,9.19,2.41,United States,Colorado,Colorado Springs,West
+B3-300135,2022-08-18,Publisher_002,Book_2060,Author_137,History,eBook,3,29.83,89.49,45.7,43.79,United States,Washington,Bellevue,West
+B3-300136,2020-08-29,Publisher_008,Book_2334,Author_140,Fiction,Hardcover,5,38.56,192.8,139.54,53.26,United States,Massachusetts,Cambridge,East
+B3-300137,2020-04-24,Publisher_033,Book_2150,Author_1363,Sci-Fi,eBook,2,10.81,21.62,15.58,6.04,United States,Arizona,Scottsdale,West
+B3-300138,2024-09-12,Publisher_009,Book_4743,Author_51,Fiction,Hardcover,1,39.57,39.57,24.36,15.21,United States,Colorado,Aurora,West
+B3-300139,2021-03-09,Publisher_017,Book_3336,Author_1210,Self-Help,Paperback,2,38.12,76.24,59.29,16.95,United States,New York,Rochester,East
+B3-300140,2021-03-23,Publisher_059,Book_1412,Author_978,Non-Fiction,Paperback,7,16.7,116.9,68.84,48.06,United States,Nevada,Reno,West
+B3-300141,2022-01-24,Publisher_011,Book_4694,Author_206,Children,eBook,2,21.34,42.68,28.35,14.33,United States,New York,New York,East
+B3-300142,2023-01-20,Publisher_050,Book_2662,Author_1125,Non-Fiction,Hardcover,3,42.46,127.38,97.77,29.61,United States,Arizona,Tucson,West
+B3-300143,2022-03-15,Publisher_018,Book_666,Author_2607,Mystery,eBook,7,33.75,236.25,124.98,111.27,United States,Colorado,Denver,West
+B3-300144,2021-03-14,Publisher_019,Book_3859,Author_2964,Mystery,Paperback,2,31.02,62.04,47.03,15.01,United States,Nevada,Sparks,West
+B3-300145,2022-04-18,Publisher_031,Book_3165,Author_197,History,eBook,5,26.06,130.3,93.79,36.51,United States,California,San Jose,West
+B3-300146,2023-06-14,Publisher_017,Book_2614,Author_810,History,Hardcover,7,36.22,253.54,153.23,100.31,United States,Washington,Seattle,West
+B3-300147,2024-11-05,Publisher_060,Book_861,Author_2808,Sci-Fi,Paperback,5,20.27,101.35,53.26,48.09,United States,Massachusetts,Cambridge,East
+B3-300148,2021-05-03,Publisher_057,Book_4993,Author_541,Fiction,eBook,5,12.58,62.9,42.62,20.28,United States,New York,Syracuse,East
+B3-300149,2024-03-22,Publisher_003,Book_1488,Author_711,Mystery,Paperback,7,38.24,267.68,163.69,103.99,United States,California,San Francisco,West
+B3-300150,2022-05-07,Publisher_053,Book_20,Author_2753,Fiction,Audiobook,7,25.35,177.45,117.94,59.51,United States,Colorado,Colorado Springs,West
+B3-300151,2020-04-07,Publisher_036,Book_2979,Author_350,History,Paperback,1,33.71,33.71,23.94,9.77,United States,Colorado,Boulder,West
+B3-300152,2022-07-10,Publisher_044,Book_3581,Author_1078,Non-Fiction,Hardcover,3,15.33,45.99,28.14,17.85,United States,Colorado,Fort Collins,West
+B3-300153,2022-01-23,Publisher_045,Book_2911,Author_1653,History,Hardcover,3,38.55,115.65,60.45,55.2,United States,California,San Francisco,West
+B3-300154,2021-10-06,Publisher_020,Book_4399,Author_913,Children,Paperback,5,25.57,127.85,74.07,53.78,United States,Texas,Houston,Central
+B3-300155,2020-01-21,Publisher_053,Book_1102,Author_1962,Mystery,Paperback,7,40.47,283.29,147.52,135.77,United States,New York,Buffalo,East
+B3-300156,2021-08-12,Publisher_013,Book_3551,Author_2375,History,Hardcover,7,34.14,238.98,175.1,63.88,United States,Nevada,Las Vegas,West
+B3-300157,2020-03-23,Publisher_057,Book_3802,Author_2320,Non-Fiction,Paperback,6,8.31,49.86,31.42,18.44,United States,Illinois,Aurora,Central
+B3-300158,2022-01-02,Publisher_015,Book_1859,Author_2383,Sci-Fi,Paperback,3,26.83,80.49,62.96,17.53,United States,Arizona,Tucson,West
+B3-300159,2023-01-04,Publisher_053,Book_2545,Author_930,History,Paperback,1,33.46,33.46,21.93,11.53,United States,Arizona,Mesa,West
+B3-300160,2024-09-03,Publisher_014,Book_857,Author_419,Mystery,Paperback,6,17.73,106.38,55.81,50.57,United States,Texas,San Antonio,Central
+B3-300161,2023-08-20,Publisher_049,Book_301,Author_1480,Self-Help,Paperback,2,32.79,65.58,41.97,23.61,United States,Nevada,Sparks,West
+B3-300162,2021-04-15,Publisher_021,Book_4021,Author_1676,Self-Help,Paperback,1,28.13,28.13,20.3,7.83,United States,Colorado,Colorado Springs,West
+B3-300163,2020-09-07,Publisher_017,Book_3659,Author_375,History,Hardcover,4,22.49,89.96,62.58,27.38,United States,Arizona,Phoenix,West
+B3-300164,2020-10-29,Publisher_057,Book_4344,Author_17,Sci-Fi,Audiobook,1,42.26,42.26,33.5,8.76,United States,Florida,Miami,South
+B3-300165,2020-08-23,Publisher_011,Book_2710,Author_2982,Mystery,Paperback,4,30.1,120.4,67.2,53.2,United States,Colorado,Colorado Springs,West
+B3-300166,2021-04-16,Publisher_001,Book_4132,Author_1180,Children,Hardcover,2,6.03,12.06,6.99,5.07,United States,Washington,Spokane,West
+B3-300167,2022-02-09,Publisher_028,Book_53,Author_2119,Children,Paperback,7,39.6,277.2,215.74,61.46,United States,Massachusetts,Cambridge,East
+B3-300168,2021-08-08,Publisher_012,Book_3829,Author_2903,Children,Paperback,6,13.5,81.0,49.85,31.15,United States,Illinois,Springfield,Central
+B3-300169,2024-01-17,Publisher_043,Book_4063,Author_179,Children,Paperback,4,38.75,155.0,101.05,53.95,United States,Texas,Dallas,Central
+B3-300170,2022-10-24,Publisher_023,Book_1480,Author_1890,Sci-Fi,Hardcover,1,38.17,38.17,29.64,8.53,United States,New York,Syracuse,East
+B3-300171,2020-12-12,Publisher_009,Book_603,Author_1968,Mystery,Hardcover,5,5.05,25.25,14.72,10.53,United States,Florida,Orlando,South
+B3-300172,2021-12-04,Publisher_009,Book_3269,Author_2996,Fiction,Hardcover,4,10.24,40.96,28.02,12.94,United States,New York,Rochester,East
+B3-300173,2020-12-26,Publisher_032,Book_2673,Author_2317,Mystery,Paperback,1,13.2,13.2,7.06,6.14,United States,Nevada,Sparks,West
+B3-300174,2021-07-24,Publisher_055,Book_4345,Author_1490,Fiction,Paperback,4,22.68,90.72,65.74,24.98,United States,Colorado,Colorado Springs,West
+B3-300175,2020-01-27,Publisher_044,Book_4319,Author_2790,Children,eBook,4,41.01,164.04,105.95,58.09,United States,Arizona,Chandler,West
+B3-300176,2020-06-13,Publisher_010,Book_2416,Author_1044,Fiction,Hardcover,5,44.05,220.25,146.16,74.09,United States,Arizona,Chandler,West
+B3-300177,2022-06-12,Publisher_002,Book_1067,Author_2540,Mystery,eBook,6,37.08,222.48,118.32,104.16,United States,Massachusetts,Boston,East
+B3-300178,2020-12-16,Publisher_030,Book_4656,Author_2188,Non-Fiction,eBook,2,18.01,36.02,28.07,7.95,United States,New York,Albany,East
+B3-300179,2020-02-20,Publisher_058,Book_2066,Author_142,Fiction,Hardcover,4,9.51,38.04,27.94,10.1,United States,New York,Albany,East
+B3-300180,2022-01-13,Publisher_034,Book_906,Author_62,Self-Help,Hardcover,7,42.17,295.19,190.28,104.91,United States,Florida,Miami,South
+B3-300181,2023-04-28,Publisher_019,Book_2340,Author_1486,Non-Fiction,Paperback,3,16.22,48.66,36.54,12.12,United States,Texas,Houston,Central
+B3-300182,2023-04-09,Publisher_009,Book_3237,Author_1231,Children,Paperback,5,33.09,165.45,122.49,42.96,United States,California,San Diego,West
+B3-300183,2020-07-13,Publisher_018,Book_2817,Author_813,Mystery,Audiobook,1,42.93,42.93,22.25,20.68,United States,Florida,Orlando,South
+B3-300184,2024-12-25,Publisher_045,Book_2101,Author_694,Mystery,Hardcover,6,15.0,90.0,70.82,19.18,United States,Colorado,Denver,West
+B3-300185,2021-09-23,Publisher_033,Book_809,Author_1880,Non-Fiction,Hardcover,2,43.51,87.02,51.22,35.8,United States,Florida,Jacksonville,South
+B3-300186,2024-11-17,Publisher_029,Book_4969,Author_213,Self-Help,Paperback,4,29.27,117.08,72.66,44.42,United States,Arizona,Chandler,West
+B3-300187,2021-10-14,Publisher_037,Book_2046,Author_2206,Children,eBook,2,27.47,54.94,39.83,15.11,United States,California,San Jose,West
+B3-300188,2021-05-13,Publisher_047,Book_317,Author_730,Fiction,Hardcover,7,36.32,254.24,135.32,118.92,United States,Illinois,Aurora,Central
+B3-300189,2024-02-19,Publisher_058,Book_1020,Author_2357,Fiction,Paperback,5,30.95,154.75,88.54,66.21,United States,Illinois,Aurora,Central
+B3-300190,2020-07-04,Publisher_050,Book_2507,Author_25,Non-Fiction,Paperback,5,15.7,78.5,52.65,25.85,United States,Illinois,Aurora,Central
+B3-300191,2023-01-03,Publisher_050,Book_4199,Author_2827,Fantasy,eBook,4,39.68,158.72,98.56,60.16,United States,Washington,Bellevue,West
+B3-300192,2020-12-16,Publisher_026,Book_759,Author_2282,Sci-Fi,eBook,2,14.64,29.28,15.92,13.36,United States,Colorado,Fort Collins,West
+B3-300193,2020-06-09,Publisher_012,Book_1088,Author_1875,Mystery,Paperback,2,17.17,34.34,20.76,13.58,United States,Arizona,Scottsdale,West
+B3-300194,2021-12-14,Publisher_012,Book_4081,Author_1201,History,Paperback,3,10.38,31.14,18.96,12.18,United States,Illinois,Chicago,Central
+B3-300195,2021-01-05,Publisher_004,Book_460,Author_2638,Children,Hardcover,5,8.75,43.75,32.51,11.24,United States,Nevada,Las Vegas,West
+B3-300196,2023-09-20,Publisher_037,Book_616,Author_533,Sci-Fi,Hardcover,1,31.89,31.89,20.44,11.45,United States,New York,Rochester,East
+B3-300197,2024-03-04,Publisher_048,Book_487,Author_581,Mystery,Audiobook,1,29.67,29.67,18.48,11.19,United States,Illinois,Springfield,Central
+B3-300198,2024-03-21,Publisher_025,Book_505,Author_443,Sci-Fi,eBook,6,7.8,46.8,31.34,15.46,United States,Texas,Fort Worth,Central
+B3-300199,2020-12-13,Publisher_030,Book_500,Author_426,Fiction,Hardcover,3,7.03,21.09,16.53,4.56,United States,Illinois,Springfield,Central
+B3-300200,2024-06-19,Publisher_033,Book_2503,Author_381,Non-Fiction,eBook,1,25.33,25.33,19.06,6.27,United States,Texas,Houston,Central
+B3-300201,2021-11-23,Publisher_025,Book_274,Author_2755,Fiction,Paperback,5,18.97,94.85,66.39,28.46,United States,Illinois,Aurora,Central
+B3-300202,2021-12-01,Publisher_057,Book_414,Author_2129,Non-Fiction,Paperback,6,32.1,192.6,152.39,40.21,United States,California,Los Angeles,West
+B3-300203,2024-04-26,Publisher_054,Book_1014,Author_2998,Children,Hardcover,6,12.16,72.96,56.19,16.77,United States,Arizona,Mesa,West
+B3-300204,2023-05-22,Publisher_012,Book_184,Author_2663,Non-Fiction,Paperback,6,42.96,257.76,167.81,89.95,United States,Massachusetts,Lowell,East
+B3-300205,2024-08-19,Publisher_011,Book_2786,Author_265,Mystery,eBook,6,7.14,42.84,30.68,12.16,United States,Florida,Tampa,South
+B3-300206,2020-03-20,Publisher_013,Book_2548,Author_602,Self-Help,Paperback,2,7.3,14.6,8.85,5.75,United States,Illinois,Aurora,Central
+B3-300207,2024-10-31,Publisher_045,Book_2194,Author_1765,Non-Fiction,Hardcover,4,25.55,102.2,71.47,30.73,United States,New York,Buffalo,East
+B3-300208,2022-06-02,Publisher_024,Book_721,Author_1526,Sci-Fi,Audiobook,6,28.45,170.7,117.81,52.89,United States,Arizona,Tucson,West
+B3-300209,2020-05-18,Publisher_026,Book_2355,Author_2404,Fantasy,Paperback,4,15.49,61.96,35.53,26.43,United States,Nevada,North Las Vegas,West
+B3-300210,2023-11-16,Publisher_001,Book_596,Author_2385,Fiction,eBook,4,41.72,166.88,101.05,65.83,United States,Massachusetts,Worcester,East
+B3-300211,2023-04-09,Publisher_029,Book_2539,Author_1633,History,Paperback,1,37.86,37.86,23.51,14.35,United States,Massachusetts,Cambridge,East
+B3-300212,2021-02-16,Publisher_051,Book_1852,Author_2022,Self-Help,Hardcover,7,25.43,178.01,122.19,55.82,United States,Massachusetts,Worcester,East
+B3-300213,2020-11-28,Publisher_034,Book_541,Author_816,Non-Fiction,Hardcover,1,33.02,33.02,19.52,13.5,United States,Florida,Jacksonville,South
+B3-300214,2022-04-15,Publisher_013,Book_2203,Author_489,Children,Audiobook,3,8.16,24.48,17.96,6.52,United States,Massachusetts,Worcester,East
+B3-300215,2020-12-31,Publisher_060,Book_3214,Author_500,Fiction,eBook,4,12.18,48.72,34.93,13.79,United States,Colorado,Boulder,West
+B3-300216,2022-08-23,Publisher_028,Book_4757,Author_1025,Self-Help,Audiobook,4,21.11,84.44,53.93,30.51,United States,Massachusetts,Springfield,East
+B3-300217,2022-05-25,Publisher_016,Book_2227,Author_1886,Fantasy,Hardcover,7,14.72,103.04,52.49,50.55,United States,Arizona,Tucson,West
+B3-300218,2020-11-26,Publisher_056,Book_3498,Author_1651,Fantasy,Audiobook,3,28.33,84.99,49.49,35.5,United States,Texas,Dallas,Central
+B3-300219,2020-06-10,Publisher_026,Book_946,Author_203,Self-Help,Paperback,2,28.19,56.38,33.27,23.11,United States,New York,Syracuse,East
+B3-300220,2023-05-28,Publisher_013,Book_3604,Author_551,Children,eBook,4,13.84,55.36,34.18,21.18,United States,New York,Syracuse,East
+B3-300221,2022-12-09,Publisher_008,Book_1101,Author_2818,History,Paperback,1,32.41,32.41,21.19,11.22,United States,California,San Diego,West
+B3-300222,2023-02-07,Publisher_003,Book_2432,Author_2998,History,Paperback,3,34.53,103.59,57.11,46.48,United States,Illinois,Springfield,Central
+B3-300223,2022-07-14,Publisher_050,Book_3032,Author_2501,Non-Fiction,Hardcover,7,24.03,168.21,105.74,62.47,United States,Arizona,Scottsdale,West
+B3-300224,2023-01-13,Publisher_038,Book_2319,Author_2546,Non-Fiction,Hardcover,5,12.86,64.3,39.98,24.32,United States,Washington,Spokane,West
+B3-300225,2021-02-12,Publisher_054,Book_1589,Author_1558,Non-Fiction,Paperback,3,32.38,97.14,52.9,44.24,United States,Washington,Tacoma,West
+B3-300226,2022-03-27,Publisher_038,Book_258,Author_1218,History,eBook,4,33.81,135.24,70.65,64.59,United States,California,San Jose,West
+B3-300227,2022-10-08,Publisher_032,Book_3925,Author_1413,Self-Help,Hardcover,1,8.65,8.65,5.7,2.95,United States,Florida,Tallahassee,South
+B3-300228,2020-10-25,Publisher_014,Book_4413,Author_2133,Non-Fiction,eBook,6,30.63,183.78,96.48,87.3,United States,Arizona,Tucson,West
+B3-300229,2024-10-21,Publisher_049,Book_278,Author_2055,Fiction,eBook,5,16.61,83.05,46.37,36.68,United States,Illinois,Springfield,Central
+B3-300230,2020-11-26,Publisher_055,Book_3111,Author_2781,Children,Paperback,1,8.78,8.78,4.58,4.2,United States,Florida,Jacksonville,South
+B3-300231,2021-07-21,Publisher_029,Book_2426,Author_2410,Fantasy,eBook,1,20.21,20.21,13.01,7.2,United States,Florida,Tampa,South
+B3-300232,2024-01-11,Publisher_051,Book_2485,Author_2833,Fantasy,Audiobook,7,13.57,94.99,52.48,42.51,United States,Texas,Austin,Central
+B3-300233,2024-09-14,Publisher_009,Book_3172,Author_2319,History,Paperback,4,43.73,174.92,97.15,77.77,United States,Washington,Tacoma,West
+B3-300234,2021-11-02,Publisher_038,Book_309,Author_2978,Self-Help,Hardcover,6,34.29,205.74,118.53,87.21,United States,Arizona,Scottsdale,West
+B3-300235,2020-01-08,Publisher_026,Book_3860,Author_2783,Mystery,Hardcover,3,14.6,43.8,34.09,9.71,United States,Florida,Tampa,South
+B3-300236,2020-05-02,Publisher_058,Book_1710,Author_1221,Fantasy,Paperback,5,35.5,177.5,110.73,66.77,United States,Florida,Tallahassee,South
+B3-300237,2021-12-06,Publisher_059,Book_4651,Author_1585,Non-Fiction,Paperback,5,20.64,103.2,75.37,27.83,United States,Washington,Seattle,West
+B3-300238,2020-09-07,Publisher_001,Book_3677,Author_2641,Non-Fiction,Audiobook,3,26.44,79.32,45.37,33.95,United States,Arizona,Scottsdale,West
+B3-300239,2020-06-29,Publisher_046,Book_3738,Author_2319,Fiction,Hardcover,2,31.82,63.64,49.74,13.9,United States,Washington,Everett,West
+B3-300240,2024-08-30,Publisher_031,Book_1663,Author_1652,Children,Paperback,4,35.26,141.04,109.27,31.77,United States,Florida,Tallahassee,South
+B3-300241,2022-04-17,Publisher_004,Book_1992,Author_1804,History,Audiobook,7,41.81,292.67,224.23,68.44,United States,Colorado,Colorado Springs,West
+B3-300242,2024-08-21,Publisher_053,Book_3602,Author_980,Fiction,Paperback,7,35.41,247.87,172.09,75.78,United States,Massachusetts,Worcester,East
+B3-300243,2024-03-14,Publisher_017,Book_4550,Author_425,Self-Help,Paperback,2,31.92,63.84,37.35,26.49,United States,Nevada,Las Vegas,West
+B3-300244,2022-07-12,Publisher_039,Book_3878,Author_1081,Mystery,eBook,1,36.97,36.97,29.44,7.53,United States,Nevada,Henderson,West
+B3-300245,2023-01-30,Publisher_046,Book_246,Author_1371,Children,Paperback,1,35.53,35.53,26.97,8.56,United States,Washington,Seattle,West
+B3-300246,2022-01-18,Publisher_005,Book_2995,Author_2497,Mystery,Paperback,5,26.68,133.4,102.31,31.09,United States,Massachusetts,Cambridge,East
+B3-300247,2020-01-25,Publisher_041,Book_3732,Author_818,History,Audiobook,2,27.33,54.66,38.25,16.41,United States,Massachusetts,Worcester,East
+B3-300248,2021-07-24,Publisher_014,Book_3248,Author_1622,Children,Paperback,4,30.13,120.52,91.69,28.83,United States,Washington,Seattle,West
+B3-300249,2022-04-24,Publisher_056,Book_1070,Author_1875,Mystery,Hardcover,1,8.9,8.9,5.88,3.02,United States,New York,Syracuse,East
+B3-300250,2022-08-25,Publisher_056,Book_4177,Author_1315,Sci-Fi,eBook,1,12.43,12.43,6.51,5.92,United States,Massachusetts,Boston,East
+B3-300251,2024-03-17,Publisher_050,Book_1280,Author_533,Self-Help,Hardcover,3,34.27,102.81,73.83,28.98,United States,California,Sacramento,West
+B3-300252,2021-03-25,Publisher_056,Book_755,Author_2427,Sci-Fi,Paperback,3,20.51,61.53,39.12,22.41,United States,Arizona,Scottsdale,West
+B3-300253,2023-09-14,Publisher_030,Book_396,Author_2877,Non-Fiction,Paperback,5,43.42,217.1,153.29,63.81,United States,Massachusetts,Lowell,East
+B3-300254,2024-06-06,Publisher_014,Book_4531,Author_1194,Children,Paperback,6,30.21,181.26,109.34,71.92,United States,Washington,Spokane,West
+B3-300255,2020-05-04,Publisher_008,Book_2676,Author_472,Non-Fiction,Paperback,3,20.33,60.99,42.4,18.59,United States,Illinois,Joliet,Central
+B3-300256,2023-05-16,Publisher_013,Book_1795,Author_2828,Self-Help,Hardcover,5,38.35,191.75,137.55,54.2,United States,Texas,Austin,Central
+B3-300257,2020-06-26,Publisher_021,Book_3573,Author_2076,Non-Fiction,Paperback,1,19.77,19.77,14.05,5.72,United States,California,San Diego,West
+B3-300258,2022-09-18,Publisher_031,Book_410,Author_1611,Non-Fiction,Hardcover,3,15.38,46.14,36.63,9.51,United States,Illinois,Naperville,Central
+B3-300259,2023-04-15,Publisher_001,Book_3278,Author_1443,Non-Fiction,Paperback,2,17.13,34.26,27.31,6.95,United States,Florida,Tallahassee,South
+B3-300260,2022-09-21,Publisher_039,Book_4787,Author_2543,Fantasy,eBook,6,16.16,96.96,71.94,25.02,United States,Massachusetts,Boston,East
+B3-300261,2023-04-06,Publisher_053,Book_375,Author_2226,Self-Help,eBook,3,24.8,74.4,43.95,30.45,United States,Texas,Houston,Central
+B3-300262,2022-06-16,Publisher_059,Book_3925,Author_46,Fantasy,Audiobook,7,35.94,251.58,147.19,104.39,United States,Arizona,Chandler,West
+B3-300263,2021-09-27,Publisher_043,Book_757,Author_1138,History,Paperback,6,42.18,253.08,195.94,57.14,United States,Arizona,Chandler,West
+B3-300264,2021-02-16,Publisher_003,Book_67,Author_2497,Fantasy,Hardcover,3,17.06,51.18,33.37,17.81,United States,Nevada,Sparks,West
+B3-300265,2021-02-16,Publisher_009,Book_2549,Author_673,Sci-Fi,Paperback,6,42.29,253.74,134.52,119.22,United States,Illinois,Naperville,Central
+B3-300266,2024-10-30,Publisher_018,Book_2878,Author_920,Fantasy,Paperback,6,9.1,54.6,40.8,13.8,United States,California,Los Angeles,West
+B3-300267,2024-11-02,Publisher_007,Book_222,Author_477,Fiction,eBook,7,7.46,52.22,26.59,25.63,United States,Florida,Tallahassee,South
+B3-300268,2021-05-10,Publisher_013,Book_2537,Author_709,Non-Fiction,Hardcover,5,11.56,57.8,35.51,22.29,United States,Nevada,Sparks,West
+B3-300269,2020-12-02,Publisher_047,Book_4819,Author_45,Non-Fiction,eBook,6,7.07,42.42,25.8,16.62,United States,Nevada,Reno,West
+B3-300270,2022-05-07,Publisher_005,Book_3227,Author_1924,Sci-Fi,Paperback,5,32.76,163.8,113.9,49.9,United States,Arizona,Chandler,West
+B3-300271,2024-01-29,Publisher_002,Book_215,Author_2112,Fantasy,Hardcover,4,12.15,48.6,35.73,12.87,United States,California,San Jose,West
+B3-300272,2020-10-25,Publisher_056,Book_406,Author_913,Sci-Fi,Hardcover,4,13.21,52.84,40.19,12.65,United States,New York,New York,East
+B3-300273,2023-03-26,Publisher_032,Book_1327,Author_1347,Sci-Fi,eBook,6,29.24,175.44,111.94,63.5,United States,Arizona,Chandler,West
+B3-300274,2021-01-30,Publisher_023,Book_2016,Author_1149,Fantasy,Paperback,1,44.62,44.62,24.23,20.39,United States,Texas,San Antonio,Central
+B3-300275,2022-06-25,Publisher_018,Book_1817,Author_2823,Sci-Fi,Paperback,2,9.05,18.1,10.85,7.25,United States,Arizona,Phoenix,West
+B3-300276,2024-12-24,Publisher_047,Book_511,Author_1054,Fantasy,Audiobook,1,39.6,39.6,25.56,14.04,United States,Washington,Everett,West
+B3-300277,2022-11-09,Publisher_021,Book_4716,Author_2196,Children,Paperback,3,37.49,112.47,62.84,49.63,United States,Massachusetts,Cambridge,East
+B3-300278,2020-07-12,Publisher_013,Book_3938,Author_739,Mystery,Paperback,5,15.88,79.4,49.59,29.81,United States,Arizona,Chandler,West
+B3-300279,2022-03-15,Publisher_020,Book_3860,Author_1051,Mystery,Paperback,5,5.87,29.35,23.22,6.13,United States,New York,New York,East
+B3-300280,2021-11-26,Publisher_054,Book_1270,Author_1669,Mystery,Paperback,3,31.21,93.63,58.22,35.41,United States,Nevada,Reno,West
+B3-300281,2021-04-10,Publisher_020,Book_937,Author_917,Fiction,Hardcover,7,15.39,107.73,69.22,38.51,United States,Arizona,Tucson,West
+B3-300282,2024-07-19,Publisher_049,Book_3399,Author_808,Fantasy,Hardcover,2,28.98,57.96,41.74,16.22,United States,Florida,Jacksonville,South
+B3-300283,2022-04-23,Publisher_045,Book_4536,Author_956,Fiction,Paperback,6,27.7,166.2,105.52,60.68,United States,Florida,Tampa,South
+B3-300284,2021-11-04,Publisher_002,Book_2122,Author_1782,Non-Fiction,Paperback,5,29.22,146.1,75.01,71.09,United States,Texas,Houston,Central
+B3-300285,2021-12-28,Publisher_023,Book_1946,Author_2893,Children,Paperback,3,31.84,95.52,54.2,41.32,United States,Illinois,Chicago,Central
+B3-300286,2024-08-25,Publisher_002,Book_598,Author_240,Mystery,Paperback,7,41.08,287.56,155.77,131.79,United States,Colorado,Boulder,West
+B3-300287,2021-08-01,Publisher_037,Book_371,Author_296,Mystery,Paperback,3,37.17,111.51,83.59,27.92,United States,New York,Syracuse,East
+B3-300288,2021-04-02,Publisher_013,Book_3302,Author_1323,Children,eBook,4,23.29,93.16,71.83,21.33,United States,Florida,Tallahassee,South
+B3-300289,2022-09-16,Publisher_026,Book_4335,Author_306,Fiction,Hardcover,6,19.95,119.7,76.16,43.54,United States,California,San Diego,West
+B3-300290,2022-11-16,Publisher_049,Book_1731,Author_2059,Mystery,eBook,1,25.0,25.0,14.5,10.5,United States,Massachusetts,Boston,East
+B3-300291,2021-10-23,Publisher_007,Book_3574,Author_2811,Children,Audiobook,3,31.7,95.1,50.34,44.76,United States,California,San Francisco,West
+B3-300292,2021-11-20,Publisher_032,Book_4857,Author_1833,Mystery,Paperback,4,28.57,114.28,86.58,27.7,United States,Colorado,Boulder,West
+B3-300293,2020-06-24,Publisher_055,Book_2699,Author_2481,Non-Fiction,Paperback,2,9.0,18.0,12.03,5.97,United States,Texas,Fort Worth,Central
+B3-300294,2021-01-02,Publisher_030,Book_3351,Author_2529,Fiction,Audiobook,1,42.24,42.24,29.17,13.07,United States,Washington,Spokane,West
+B3-300295,2023-10-08,Publisher_056,Book_2281,Author_904,Self-Help,Hardcover,4,15.87,63.48,39.09,24.39,United States,Florida,Tallahassee,South
+B3-300296,2022-11-15,Publisher_047,Book_1993,Author_2291,Fantasy,eBook,6,21.69,130.14,82.32,47.82,United States,New York,New York,East
+B3-300297,2020-02-21,Publisher_031,Book_2568,Author_1911,Self-Help,Paperback,4,33.78,135.12,72.19,62.93,United States,New York,Syracuse,East
+B3-300298,2020-01-18,Publisher_028,Book_258,Author_454,Self-Help,Paperback,7,13.76,96.32,64.43,31.89,United States,Arizona,Tucson,West
+B3-300299,2020-05-23,Publisher_054,Book_2849,Author_2728,Fiction,Hardcover,5,8.67,43.35,30.01,13.34,United States,Massachusetts,Cambridge,East
+B3-300300,2023-11-29,Publisher_022,Book_1389,Author_949,History,Paperback,5,31.59,157.95,114.6,43.35,United States,Arizona,Phoenix,West
+B3-300301,2022-09-14,Publisher_058,Book_1911,Author_2139,Mystery,Audiobook,2,20.92,41.84,30.46,11.38,United States,Illinois,Springfield,Central
+B3-300302,2020-09-23,Publisher_040,Book_30,Author_1204,Sci-Fi,Paperback,7,10.15,71.05,47.16,23.89,United States,Florida,Miami,South
+B3-300303,2020-08-04,Publisher_018,Book_358,Author_986,Self-Help,Paperback,7,8.38,58.66,44.61,14.05,United States,California,Sacramento,West
+B3-300304,2024-08-10,Publisher_019,Book_4900,Author_1622,History,eBook,6,33.31,199.86,144.47,55.39,United States,Colorado,Colorado Springs,West
+B3-300305,2021-01-03,Publisher_039,Book_2533,Author_485,Non-Fiction,Hardcover,5,32.01,160.05,96.15,63.9,United States,Nevada,Henderson,West
+B3-300306,2021-03-06,Publisher_051,Book_3626,Author_2197,History,Paperback,3,35.19,105.57,65.8,39.77,United States,Colorado,Colorado Springs,West
+B3-300307,2024-05-31,Publisher_001,Book_4778,Author_2287,Mystery,Hardcover,2,37.44,74.88,48.39,26.49,United States,Colorado,Fort Collins,West
+B3-300308,2021-07-02,Publisher_025,Book_2003,Author_1005,Self-Help,Paperback,5,8.44,42.2,32.62,9.58,United States,Illinois,Naperville,Central
+B3-300309,2022-01-07,Publisher_047,Book_3105,Author_286,Non-Fiction,Paperback,3,7.48,22.44,11.5,10.94,United States,Massachusetts,Worcester,East
+B3-300310,2022-06-01,Publisher_020,Book_795,Author_950,Sci-Fi,Paperback,1,7.85,7.85,4.35,3.5,United States,Washington,Spokane,West
+B3-300311,2024-01-05,Publisher_022,Book_4543,Author_2363,Children,eBook,5,24.64,123.2,63.35,59.85,United States,New York,New York,East
+B3-300312,2022-07-24,Publisher_059,Book_3892,Author_977,Children,Paperback,3,40.54,121.62,80.98,40.64,United States,Illinois,Joliet,Central
+B3-300313,2022-08-10,Publisher_036,Book_3429,Author_1191,Mystery,Paperback,6,5.61,33.66,22.76,10.9,United States,Nevada,Las Vegas,West
+B3-300314,2024-06-01,Publisher_026,Book_672,Author_101,Non-Fiction,eBook,2,34.48,68.96,49.2,19.76,United States,Texas,Fort Worth,Central
+B3-300315,2023-10-11,Publisher_048,Book_3883,Author_2112,History,Paperback,7,12.17,85.19,44.44,40.75,United States,Nevada,Reno,West
+B3-300316,2021-09-29,Publisher_037,Book_3213,Author_2348,Fantasy,eBook,1,12.56,12.56,8.8,3.76,United States,Florida,Tallahassee,South
+B3-300317,2021-02-26,Publisher_014,Book_691,Author_1731,Children,Paperback,1,19.28,19.28,12.68,6.6,United States,Colorado,Aurora,West
+B3-300318,2024-05-06,Publisher_033,Book_211,Author_1654,Self-Help,Audiobook,3,39.82,119.46,81.2,38.26,United States,Florida,Tampa,South
+B3-300319,2023-10-17,Publisher_040,Book_2691,Author_2449,Sci-Fi,Hardcover,1,30.06,30.06,16.44,13.62,United States,Colorado,Aurora,West
+B3-300320,2023-05-10,Publisher_057,Book_475,Author_2159,Self-Help,Hardcover,7,14.29,100.03,52.5,47.53,United States,California,San Jose,West
+B3-300321,2023-09-12,Publisher_003,Book_3555,Author_835,Sci-Fi,Hardcover,4,24.49,97.96,72.68,25.28,United States,Florida,Jacksonville,South
+B3-300322,2024-06-26,Publisher_023,Book_3339,Author_1286,Fantasy,Hardcover,7,15.76,110.32,58.59,51.73,United States,Illinois,Joliet,Central
+B3-300323,2022-06-26,Publisher_014,Book_2663,Author_1787,Children,eBook,4,6.63,26.52,17.53,8.99,United States,Arizona,Mesa,West
+B3-300324,2021-02-13,Publisher_031,Book_3765,Author_2521,Non-Fiction,Paperback,7,36.74,257.18,192.22,64.96,United States,Texas,Houston,Central
+B3-300325,2020-09-29,Publisher_043,Book_868,Author_2676,Self-Help,Audiobook,5,40.89,204.45,109.0,95.45,United States,New York,Rochester,East
+B3-300326,2020-10-31,Publisher_056,Book_2792,Author_86,Fiction,Paperback,3,7.44,22.32,16.27,6.05,United States,New York,Albany,East
+B3-300327,2022-11-08,Publisher_057,Book_4187,Author_1011,Fantasy,eBook,3,9.3,27.9,16.95,10.95,United States,Massachusetts,Worcester,East
+B3-300328,2021-08-02,Publisher_056,Book_1124,Author_674,Fiction,Hardcover,4,16.88,67.52,39.02,28.5,United States,California,San Francisco,West
+B3-300329,2020-01-31,Publisher_002,Book_4064,Author_2046,Self-Help,eBook,4,13.45,53.8,41.16,12.64,United States,Florida,Tampa,South
+B3-300330,2022-11-23,Publisher_029,Book_4756,Author_820,Fantasy,Paperback,5,21.8,109.0,59.25,49.75,United States,New York,Rochester,East
+B3-300331,2023-07-09,Publisher_020,Book_2034,Author_2086,Mystery,Paperback,1,16.85,16.85,9.22,7.63,United States,Massachusetts,Boston,East
+B3-300332,2023-07-22,Publisher_059,Book_3618,Author_2990,History,Paperback,5,44.75,223.75,130.56,93.19,United States,Washington,Everett,West
+B3-300333,2022-09-15,Publisher_022,Book_1900,Author_1264,Children,Hardcover,1,10.96,10.96,6.65,4.31,United States,Florida,Orlando,South
+B3-300334,2022-05-15,Publisher_049,Book_186,Author_281,Fiction,Hardcover,6,35.28,211.68,163.2,48.48,United States,Nevada,Reno,West
+B3-300335,2023-07-26,Publisher_055,Book_233,Author_2521,Self-Help,Hardcover,6,15.99,95.94,66.17,29.77,United States,California,San Francisco,West
+B3-300336,2020-10-26,Publisher_012,Book_3228,Author_2375,Mystery,eBook,5,22.33,111.65,85.21,26.44,United States,Illinois,Naperville,Central
+B3-300337,2020-01-12,Publisher_032,Book_51,Author_2058,Non-Fiction,Paperback,4,7.12,28.48,18.75,9.73,United States,Arizona,Phoenix,West
+B3-300338,2022-05-28,Publisher_026,Book_676,Author_301,Fiction,Paperback,7,40.92,286.44,225.16,61.28,United States,Florida,Tampa,South
+B3-300339,2020-10-03,Publisher_028,Book_4059,Author_720,Self-Help,eBook,4,27.26,109.04,85.94,23.1,United States,Arizona,Chandler,West
+B3-300340,2021-05-10,Publisher_043,Book_3202,Author_2049,Non-Fiction,Paperback,6,10.07,60.42,32.74,27.68,United States,Massachusetts,Lowell,East
+B3-300341,2023-10-13,Publisher_007,Book_583,Author_163,Fantasy,Paperback,4,8.13,32.52,21.56,10.96,United States,California,San Francisco,West
+B3-300342,2021-03-01,Publisher_030,Book_4653,Author_2145,Fantasy,Hardcover,3,28.48,85.44,51.69,33.75,United States,Florida,Jacksonville,South
+B3-300343,2023-04-29,Publisher_010,Book_606,Author_2705,Self-Help,Paperback,5,36.62,183.1,97.85,85.25,United States,Arizona,Phoenix,West
+B3-300344,2021-09-25,Publisher_045,Book_4916,Author_2552,Children,Paperback,5,15.07,75.35,44.23,31.12,United States,Massachusetts,Worcester,East
+B3-300345,2020-10-14,Publisher_050,Book_3241,Author_2958,Fiction,eBook,4,8.22,32.88,19.83,13.05,United States,New York,New York,East
+B3-300346,2023-08-24,Publisher_046,Book_3964,Author_247,Non-Fiction,Audiobook,1,22.36,22.36,17.41,4.95,United States,Florida,Jacksonville,South
+B3-300347,2020-03-22,Publisher_012,Book_1030,Author_2619,Non-Fiction,Hardcover,5,35.03,175.15,106.83,68.32,United States,Texas,Fort Worth,Central
+B3-300348,2024-10-26,Publisher_036,Book_2745,Author_2988,History,Paperback,1,39.67,39.67,22.94,16.73,United States,Arizona,Chandler,West
+B3-300349,2024-08-02,Publisher_008,Book_795,Author_1617,Sci-Fi,eBook,6,32.29,193.74,109.28,84.46,United States,Illinois,Aurora,Central
+B3-300350,2024-04-07,Publisher_054,Book_811,Author_33,Fantasy,Hardcover,5,36.28,181.4,113.84,67.56,United States,Massachusetts,Boston,East
+B3-300351,2023-01-17,Publisher_021,Book_4689,Author_2276,Non-Fiction,Hardcover,2,24.36,48.72,38.54,10.18,United States,Texas,San Antonio,Central
+B3-300352,2022-03-29,Publisher_032,Book_28,Author_581,Non-Fiction,Paperback,1,9.37,9.37,6.39,2.98,United States,Washington,Seattle,West
+B3-300353,2022-05-21,Publisher_053,Book_1325,Author_2451,Fiction,Hardcover,5,5.93,29.65,14.83,14.82,United States,Arizona,Mesa,West
+B3-300354,2024-04-16,Publisher_005,Book_3850,Author_2430,Sci-Fi,Paperback,4,26.15,104.6,71.22,33.38,United States,Illinois,Chicago,Central
+B3-300355,2022-01-11,Publisher_054,Book_3197,Author_2828,Fantasy,Paperback,5,5.46,27.3,21.7,5.6,United States,Washington,Bellevue,West
+B3-300356,2022-10-04,Publisher_034,Book_731,Author_2013,History,Hardcover,1,32.23,32.23,17.01,15.22,United States,Massachusetts,Worcester,East
+B3-300357,2023-09-22,Publisher_039,Book_1247,Author_2574,Non-Fiction,Hardcover,3,12.26,36.78,20.85,15.93,United States,Washington,Bellevue,West
+B3-300358,2024-06-09,Publisher_040,Book_2857,Author_2494,Mystery,Hardcover,1,12.92,12.92,6.51,6.41,United States,Nevada,Reno,West
+B3-300359,2024-03-13,Publisher_046,Book_1694,Author_1769,Self-Help,eBook,5,15.09,75.45,40.02,35.43,United States,Nevada,Sparks,West
+B3-300360,2022-03-15,Publisher_034,Book_192,Author_851,Sci-Fi,Paperback,3,38.64,115.92,78.01,37.91,United States,Arizona,Mesa,West
+B3-300361,2020-03-11,Publisher_035,Book_3033,Author_1731,Fantasy,Paperback,5,5.0,25.0,16.53,8.47,United States,Texas,San Antonio,Central
+B3-300362,2020-09-04,Publisher_021,Book_2829,Author_2098,Sci-Fi,Hardcover,4,44.75,179.0,109.7,69.3,United States,Washington,Everett,West
+B3-300363,2023-07-20,Publisher_046,Book_3863,Author_470,Children,Paperback,7,42.35,296.45,236.89,59.56,United States,Illinois,Naperville,Central
+B3-300364,2023-10-05,Publisher_027,Book_1607,Author_689,Self-Help,eBook,5,13.5,67.5,48.56,18.94,United States,California,San Diego,West
+B3-300365,2024-04-25,Publisher_021,Book_4187,Author_167,Mystery,eBook,4,38.84,155.36,103.24,52.12,United States,Illinois,Aurora,Central
+B3-300366,2024-06-10,Publisher_011,Book_64,Author_1245,Fantasy,Hardcover,1,15.9,15.9,8.19,7.71,United States,Washington,Tacoma,West
+B3-300367,2024-05-10,Publisher_040,Book_2332,Author_361,Fiction,Paperback,4,38.34,153.36,86.12,67.24,United States,Texas,San Antonio,Central
+B3-300368,2021-10-10,Publisher_039,Book_4589,Author_885,Fantasy,Paperback,5,16.88,84.4,59.15,25.25,United States,California,Los Angeles,West
+B3-300369,2020-07-21,Publisher_013,Book_3165,Author_789,Children,Hardcover,6,10.53,63.18,36.91,26.27,United States,California,Los Angeles,West
+B3-300370,2024-11-02,Publisher_025,Book_2141,Author_2509,History,Paperback,2,36.7,73.4,55.77,17.63,United States,Arizona,Mesa,West
+B3-300371,2020-04-16,Publisher_042,Book_1267,Author_2080,Self-Help,eBook,6,32.56,195.36,149.18,46.18,United States,Massachusetts,Cambridge,East
+B3-300372,2023-03-31,Publisher_022,Book_4876,Author_2685,Non-Fiction,Hardcover,1,30.52,30.52,24.3,6.22,United States,Florida,Tallahassee,South
+B3-300373,2021-07-22,Publisher_048,Book_3984,Author_2094,Fiction,Hardcover,6,16.3,97.8,52.02,45.78,United States,Washington,Tacoma,West
+B3-300374,2021-08-02,Publisher_051,Book_3430,Author_928,Fantasy,eBook,6,33.83,202.98,117.69,85.29,United States,Nevada,Reno,West
+B3-300375,2022-05-12,Publisher_014,Book_245,Author_611,Self-Help,Hardcover,2,28.76,57.52,38.5,19.02,United States,Texas,San Antonio,Central
+B3-300376,2023-10-29,Publisher_053,Book_4908,Author_1581,Self-Help,Paperback,5,27.53,137.65,107.54,30.11,United States,Massachusetts,Springfield,East
+B3-300377,2024-12-25,Publisher_051,Book_3050,Author_2243,Children,Hardcover,5,34.64,173.2,106.01,67.19,United States,Washington,Seattle,West
+B3-300378,2020-11-13,Publisher_019,Book_2597,Author_2878,Self-Help,eBook,1,37.73,37.73,22.34,15.39,United States,Florida,Jacksonville,South
+B3-300379,2020-04-05,Publisher_015,Book_3514,Author_2935,Children,Paperback,7,41.74,292.18,207.17,85.01,United States,Washington,Tacoma,West
+B3-300380,2021-05-18,Publisher_014,Book_2307,Author_1062,Fiction,eBook,3,28.18,84.54,43.5,41.04,United States,Florida,Jacksonville,South
+B3-300381,2024-02-29,Publisher_007,Book_3259,Author_2037,Self-Help,Paperback,7,43.18,302.26,154.27,147.99,United States,Arizona,Mesa,West
+B3-300382,2020-04-09,Publisher_025,Book_1421,Author_352,Mystery,Paperback,5,36.1,180.5,122.69,57.81,United States,Arizona,Scottsdale,West
+B3-300383,2020-03-13,Publisher_032,Book_2858,Author_605,Self-Help,Paperback,2,27.68,55.36,34.17,21.19,United States,Texas,Austin,Central
+B3-300384,2022-08-15,Publisher_020,Book_2859,Author_986,Mystery,Paperback,4,27.66,110.64,76.87,33.77,United States,Massachusetts,Cambridge,East
+B3-300385,2024-04-12,Publisher_056,Book_1583,Author_2216,Children,Paperback,1,6.89,6.89,3.6,3.29,United States,Washington,Tacoma,West
+B3-300386,2021-02-12,Publisher_012,Book_1808,Author_1379,Fiction,eBook,4,28.16,112.64,71.79,40.85,United States,California,San Jose,West
+B3-300387,2021-11-08,Publisher_018,Book_1092,Author_113,Non-Fiction,eBook,4,16.02,64.08,34.67,29.41,United States,Nevada,North Las Vegas,West
+B3-300388,2023-09-09,Publisher_036,Book_1467,Author_2646,Fiction,eBook,2,26.94,53.88,33.4,20.48,United States,Texas,Dallas,Central
+B3-300389,2023-09-23,Publisher_055,Book_1188,Author_1884,History,Hardcover,3,13.39,40.17,22.08,18.09,United States,Massachusetts,Lowell,East
+B3-300390,2020-04-04,Publisher_006,Book_4390,Author_478,History,Hardcover,4,11.15,44.6,29.06,15.54,United States,Arizona,Chandler,West
+B3-300391,2020-06-02,Publisher_019,Book_131,Author_2738,Non-Fiction,Paperback,3,43.54,130.62,65.54,65.08,United States,Washington,Tacoma,West
+B3-300392,2020-08-29,Publisher_014,Book_2899,Author_465,Children,eBook,6,21.33,127.98,94.1,33.88,United States,Arizona,Chandler,West
+B3-300393,2021-04-16,Publisher_057,Book_3141,Author_1942,History,Paperback,4,20.81,83.24,63.24,20.0,United States,Arizona,Chandler,West
+B3-300394,2021-12-19,Publisher_048,Book_2519,Author_600,Fiction,Audiobook,2,6.51,13.02,9.3,3.72,United States,Nevada,Sparks,West
+B3-300395,2021-02-23,Publisher_001,Book_580,Author_1830,Non-Fiction,Paperback,5,38.94,194.7,153.58,41.12,United States,California,San Francisco,West
+B3-300396,2024-02-17,Publisher_006,Book_2471,Author_2852,History,eBook,7,30.11,210.77,143.58,67.19,United States,New York,Syracuse,East
+B3-300397,2024-10-25,Publisher_041,Book_2997,Author_112,Fantasy,eBook,7,30.52,213.64,156.84,56.8,United States,Washington,Spokane,West
+B3-300398,2023-09-11,Publisher_026,Book_419,Author_933,Self-Help,Paperback,5,23.3,116.5,68.86,47.64,United States,California,Sacramento,West
+B3-300399,2020-01-05,Publisher_008,Book_397,Author_2556,Fantasy,Paperback,5,21.79,108.95,57.38,51.57,United States,Washington,Tacoma,West
+B3-300400,2020-10-23,Publisher_040,Book_4141,Author_536,Children,Hardcover,4,38.98,155.92,116.49,39.43,United States,Arizona,Mesa,West
+B3-300401,2020-01-04,Publisher_052,Book_199,Author_1429,History,Paperback,4,15.31,61.24,43.1,18.14,United States,Texas,Austin,Central
+B3-300402,2024-01-28,Publisher_021,Book_1983,Author_291,History,eBook,7,43.09,301.63,195.32,106.31,United States,Nevada,Sparks,West
+B3-300403,2020-07-18,Publisher_039,Book_4024,Author_2581,Fantasy,eBook,7,28.7,200.9,102.66,98.24,United States,Massachusetts,Cambridge,East
+B3-300404,2024-07-18,Publisher_039,Book_4605,Author_1622,Mystery,Paperback,1,11.17,11.17,6.71,4.46,United States,New York,Buffalo,East
+B3-300405,2020-10-01,Publisher_034,Book_3069,Author_2186,Sci-Fi,Paperback,7,37.46,262.22,135.39,126.83,United States,New York,Syracuse,East
+B3-300406,2024-05-03,Publisher_035,Book_4158,Author_2446,Children,Hardcover,5,17.04,85.2,45.03,40.17,United States,Florida,Tallahassee,South
+B3-300407,2022-07-01,Publisher_005,Book_2197,Author_1151,Fiction,eBook,7,32.25,225.75,133.23,92.52,United States,Massachusetts,Cambridge,East
+B3-300408,2023-03-19,Publisher_027,Book_4000,Author_1424,Fiction,eBook,5,25.04,125.2,71.82,53.38,United States,New York,Syracuse,East
+B3-300409,2023-12-02,Publisher_005,Book_2736,Author_419,Children,Audiobook,7,32.27,225.89,158.1,67.79,United States,Nevada,Henderson,West
+B3-300410,2024-02-20,Publisher_028,Book_263,Author_2507,History,Paperback,7,24.87,174.09,90.17,83.92,United States,New York,Buffalo,East
+B3-300411,2023-06-11,Publisher_053,Book_4159,Author_2041,Children,Hardcover,7,42.24,295.68,194.43,101.25,United States,California,San Jose,West
+B3-300412,2024-09-25,Publisher_013,Book_3905,Author_753,Self-Help,Paperback,3,39.09,117.27,67.02,50.25,United States,Florida,Orlando,South
+B3-300413,2022-09-19,Publisher_010,Book_4059,Author_2414,Children,eBook,7,6.08,42.56,27.46,15.1,United States,Washington,Seattle,West
+B3-300414,2022-02-23,Publisher_012,Book_415,Author_2175,Self-Help,Audiobook,2,37.43,74.86,49.99,24.87,United States,Colorado,Fort Collins,West
+B3-300415,2021-11-01,Publisher_052,Book_1008,Author_2210,History,Hardcover,5,6.38,31.9,22.78,9.12,United States,New York,New York,East
+B3-300416,2023-07-25,Publisher_011,Book_994,Author_183,Children,Hardcover,4,8.32,33.28,24.03,9.25,United States,Illinois,Naperville,Central
+B3-300417,2024-09-06,Publisher_011,Book_1424,Author_171,Non-Fiction,eBook,7,37.17,260.19,132.54,127.65,United States,New York,New York,East
+B3-300418,2020-06-10,Publisher_001,Book_2973,Author_2596,Fantasy,Audiobook,7,11.88,83.16,65.45,17.71,United States,Texas,Austin,Central
+B3-300419,2020-07-11,Publisher_046,Book_699,Author_180,History,Paperback,1,34.67,34.67,23.87,10.8,United States,Illinois,Springfield,Central
+B3-300420,2022-06-29,Publisher_013,Book_784,Author_724,Fantasy,Paperback,3,28.99,86.97,47.0,39.97,United States,Texas,Dallas,Central
+B3-300421,2022-09-01,Publisher_027,Book_1638,Author_1370,Fiction,Paperback,3,27.19,81.57,61.68,19.89,United States,Massachusetts,Cambridge,East
+B3-300422,2021-09-04,Publisher_034,Book_3507,Author_1701,Fantasy,Audiobook,7,27.48,192.36,100.1,92.26,United States,Washington,Everett,West
+B3-300423,2022-06-30,Publisher_056,Book_3364,Author_975,Non-Fiction,Paperback,6,24.6,147.6,88.77,58.83,United States,Texas,Houston,Central
+B3-300424,2024-09-21,Publisher_053,Book_1631,Author_304,Fantasy,Paperback,5,33.61,168.05,125.46,42.59,United States,New York,Albany,East
+B3-300425,2022-06-14,Publisher_004,Book_907,Author_1412,Self-Help,Paperback,6,34.17,205.02,162.67,42.35,United States,Massachusetts,Cambridge,East
+B3-300426,2021-01-07,Publisher_046,Book_2165,Author_1339,History,Paperback,3,32.61,97.83,56.66,41.17,United States,Arizona,Scottsdale,West
+B3-300427,2022-12-20,Publisher_010,Book_101,Author_1239,Fiction,Paperback,3,22.17,66.51,33.33,33.18,United States,Colorado,Aurora,West
+B3-300428,2024-04-09,Publisher_035,Book_1855,Author_340,Children,Paperback,5,11.1,55.5,33.52,21.98,United States,Illinois,Joliet,Central
+B3-300429,2023-02-21,Publisher_054,Book_3352,Author_2194,Fantasy,Paperback,3,42.46,127.38,75.27,52.11,United States,Washington,Spokane,West
+B3-300430,2024-04-19,Publisher_008,Book_2232,Author_1760,Sci-Fi,Hardcover,6,11.7,70.2,48.01,22.19,United States,Massachusetts,Cambridge,East
+B3-300431,2021-06-16,Publisher_018,Book_534,Author_1426,Non-Fiction,Paperback,2,21.53,43.06,22.4,20.66,United States,Nevada,Reno,West
+B3-300432,2020-06-08,Publisher_008,Book_1992,Author_840,Fantasy,Hardcover,5,25.1,125.5,91.74,33.76,United States,Colorado,Aurora,West
+B3-300433,2023-12-22,Publisher_001,Book_4065,Author_1178,Fiction,Hardcover,5,30.47,152.35,79.08,73.27,United States,Colorado,Denver,West
+B3-300434,2020-10-14,Publisher_043,Book_1318,Author_725,History,Paperback,3,5.28,15.84,10.82,5.02,United States,Florida,Tallahassee,South
+B3-300435,2021-08-11,Publisher_016,Book_2241,Author_954,History,Paperback,3,23.24,69.72,51.65,18.07,United States,Massachusetts,Lowell,East
+B3-300436,2024-11-29,Publisher_015,Book_108,Author_657,Mystery,Paperback,1,34.44,34.44,23.59,10.85,United States,Colorado,Colorado Springs,West
+B3-300437,2023-12-05,Publisher_058,Book_3851,Author_1130,Self-Help,eBook,7,18.59,130.13,76.03,54.1,United States,Illinois,Joliet,Central
+B3-300438,2022-04-04,Publisher_008,Book_4402,Author_2264,Non-Fiction,Paperback,5,19.88,99.4,57.94,41.46,United States,New York,Albany,East
+B3-300439,2020-11-20,Publisher_045,Book_269,Author_2102,Non-Fiction,Hardcover,5,9.84,49.2,28.35,20.85,United States,Massachusetts,Worcester,East
+B3-300440,2023-11-06,Publisher_047,Book_3662,Author_986,Mystery,eBook,3,40.8,122.4,74.87,47.53,United States,Illinois,Springfield,Central
+B3-300441,2021-05-12,Publisher_001,Book_4279,Author_908,Non-Fiction,Paperback,5,5.42,27.1,14.86,12.24,United States,California,San Jose,West
+B3-300442,2020-05-04,Publisher_006,Book_2523,Author_1047,Non-Fiction,Paperback,3,15.54,46.62,24.43,22.19,United States,Nevada,North Las Vegas,West
+B3-300443,2021-11-25,Publisher_055,Book_482,Author_2545,Self-Help,Paperback,5,42.44,212.2,111.07,101.13,United States,Washington,Seattle,West
+B3-300444,2021-04-10,Publisher_043,Book_4627,Author_2048,Non-Fiction,Paperback,4,29.01,116.04,79.55,36.49,United States,Colorado,Colorado Springs,West
+B3-300445,2020-03-16,Publisher_043,Book_4447,Author_1892,Non-Fiction,Paperback,4,20.47,81.88,64.7,17.18,United States,Colorado,Denver,West
+B3-300446,2022-03-29,Publisher_043,Book_2589,Author_512,Non-Fiction,Paperback,6,42.76,256.56,199.42,57.14,United States,New York,Buffalo,East
+B3-300447,2021-08-21,Publisher_050,Book_3682,Author_1950,Sci-Fi,Audiobook,2,19.99,39.98,30.4,9.58,United States,Illinois,Springfield,Central
+B3-300448,2024-04-19,Publisher_038,Book_3713,Author_972,Sci-Fi,Paperback,7,24.05,168.35,109.57,58.78,United States,Nevada,North Las Vegas,West
+B3-300449,2023-10-24,Publisher_060,Book_1499,Author_2151,Children,eBook,3,39.0,117.0,80.78,36.22,United States,Illinois,Springfield,Central
+B3-300450,2023-02-23,Publisher_039,Book_3545,Author_2250,History,Audiobook,2,13.0,26.0,18.6,7.4,United States,Florida,Tallahassee,South
+B3-300451,2022-12-21,Publisher_017,Book_4362,Author_2590,Fiction,Paperback,7,39.31,275.17,178.03,97.14,United States,Illinois,Springfield,Central
+B3-300452,2020-11-15,Publisher_056,Book_1346,Author_2199,Mystery,Audiobook,6,14.6,87.6,46.48,41.12,United States,Florida,Tampa,South
+B3-300453,2023-09-26,Publisher_039,Book_946,Author_964,Non-Fiction,Paperback,3,6.26,18.78,12.14,6.64,United States,Colorado,Denver,West
+B3-300454,2021-02-23,Publisher_019,Book_1785,Author_1416,Self-Help,eBook,4,35.13,140.52,105.26,35.26,United States,New York,New York,East
+B3-300455,2023-01-10,Publisher_050,Book_3485,Author_2852,Self-Help,Paperback,3,17.79,53.37,33.01,20.36,United States,Illinois,Chicago,Central
+B3-300456,2024-07-07,Publisher_033,Book_4920,Author_1294,Children,Paperback,7,18.45,129.15,66.43,62.72,United States,Colorado,Colorado Springs,West
+B3-300457,2021-07-02,Publisher_050,Book_3484,Author_222,Non-Fiction,eBook,7,6.69,46.83,36.6,10.23,United States,Nevada,Las Vegas,West
+B3-300458,2022-01-04,Publisher_050,Book_4770,Author_2904,Mystery,Audiobook,5,27.29,136.45,94.08,42.37,United States,California,San Francisco,West
+B3-300459,2024-12-06,Publisher_032,Book_199,Author_1059,Fiction,Paperback,7,22.44,157.08,83.16,73.92,United States,Texas,San Antonio,Central
+B3-300460,2020-08-04,Publisher_060,Book_3594,Author_173,Self-Help,Paperback,1,31.12,31.12,21.84,9.28,United States,Texas,Dallas,Central
+B3-300461,2020-06-29,Publisher_055,Book_2620,Author_215,History,Paperback,7,33.89,237.23,186.41,50.82,United States,Illinois,Naperville,Central
+B3-300462,2020-03-03,Publisher_002,Book_2557,Author_1941,History,Hardcover,7,43.23,302.61,171.69,130.92,United States,Colorado,Denver,West
+B3-300463,2024-01-12,Publisher_001,Book_2472,Author_495,Self-Help,Paperback,6,41.21,247.26,179.82,67.44,United States,New York,Syracuse,East
+B3-300464,2024-11-15,Publisher_043,Book_2558,Author_1552,Sci-Fi,Hardcover,2,25.73,51.46,36.32,15.14,United States,Arizona,Tucson,West
+B3-300465,2022-11-09,Publisher_027,Book_4777,Author_2000,History,Paperback,4,26.43,105.72,54.48,51.24,United States,Colorado,Boulder,West
+B3-300466,2021-03-14,Publisher_052,Book_1035,Author_2987,History,Paperback,5,10.65,53.25,38.46,14.79,United States,Illinois,Springfield,Central
+B3-300467,2020-04-26,Publisher_015,Book_2174,Author_1322,Mystery,eBook,5,36.52,182.6,95.18,87.42,United States,Washington,Bellevue,West
+B3-300468,2024-02-05,Publisher_022,Book_64,Author_1836,Mystery,eBook,4,20.96,83.84,59.89,23.95,United States,California,San Diego,West
+B3-300469,2023-10-24,Publisher_052,Book_4963,Author_2079,Non-Fiction,Paperback,3,18.88,56.64,31.01,25.63,United States,California,Sacramento,West
+B3-300470,2023-06-02,Publisher_011,Book_4372,Author_1079,Mystery,Paperback,6,23.48,140.88,87.51,53.37,United States,Arizona,Tucson,West
+B3-300471,2024-12-20,Publisher_020,Book_3658,Author_2513,Children,Paperback,1,19.48,19.48,13.28,6.2,United States,Texas,Fort Worth,Central
+B3-300472,2021-02-22,Publisher_009,Book_1754,Author_113,Self-Help,eBook,6,8.07,48.42,36.48,11.94,United States,New York,Albany,East
+B3-300473,2020-09-22,Publisher_059,Book_3442,Author_1356,Self-Help,Hardcover,1,5.15,5.15,2.61,2.54,United States,Massachusetts,Lowell,East
+B3-300474,2023-11-24,Publisher_029,Book_2375,Author_974,Self-Help,Paperback,2,44.7,89.4,53.98,35.42,United States,Washington,Seattle,West
+B3-300475,2023-07-23,Publisher_060,Book_799,Author_2040,Non-Fiction,Paperback,1,33.67,33.67,23.25,10.42,United States,Colorado,Denver,West
+B3-300476,2021-12-20,Publisher_060,Book_2476,Author_2242,Mystery,Hardcover,3,18.43,55.29,40.17,15.12,United States,Massachusetts,Boston,East
+B3-300477,2024-04-10,Publisher_001,Book_1324,Author_232,Non-Fiction,Audiobook,3,9.72,29.16,17.68,11.48,United States,California,Sacramento,West
+B3-300478,2024-12-08,Publisher_019,Book_4433,Author_32,Children,Audiobook,4,32.5,130.0,91.76,38.24,United States,Colorado,Boulder,West
+B3-300479,2020-03-31,Publisher_023,Book_4323,Author_1250,Sci-Fi,Paperback,3,19.95,59.85,31.06,28.79,United States,Washington,Bellevue,West
+B3-300480,2024-07-08,Publisher_052,Book_722,Author_1702,Sci-Fi,Paperback,6,42.91,257.46,147.18,110.28,United States,Massachusetts,Springfield,East
+B3-300481,2020-11-25,Publisher_007,Book_1136,Author_19,Sci-Fi,Paperback,2,34.96,69.92,39.66,30.26,United States,Colorado,Aurora,West
+B3-300482,2024-03-01,Publisher_036,Book_4228,Author_2209,Fantasy,Hardcover,4,37.7,150.8,78.5,72.3,United States,New York,New York,East
+B3-300483,2021-03-12,Publisher_029,Book_3964,Author_2182,Fiction,eBook,3,39.46,118.38,89.22,29.16,United States,Massachusetts,Worcester,East
+B3-300484,2021-10-26,Publisher_008,Book_85,Author_2270,History,Hardcover,3,7.17,21.51,13.43,8.08,United States,Florida,Tallahassee,South
+B3-300485,2022-05-17,Publisher_046,Book_416,Author_1979,Fiction,Paperback,3,32.21,96.63,76.22,20.41,United States,Texas,Austin,Central
+B3-300486,2021-03-01,Publisher_033,Book_3993,Author_2249,Children,eBook,3,34.77,104.31,56.52,47.79,United States,Colorado,Aurora,West
+B3-300487,2024-04-12,Publisher_055,Book_445,Author_1020,Fiction,Hardcover,4,32.3,129.2,83.37,45.83,United States,Nevada,Las Vegas,West
+B3-300488,2023-01-14,Publisher_040,Book_4984,Author_2170,Mystery,Paperback,3,7.75,23.25,15.37,7.88,United States,Illinois,Joliet,Central
+B3-300489,2024-10-17,Publisher_009,Book_3203,Author_733,Children,Hardcover,6,43.75,262.5,176.08,86.42,United States,Nevada,North Las Vegas,West
+B3-300490,2020-08-07,Publisher_055,Book_3639,Author_2165,Self-Help,eBook,6,21.07,126.42,100.66,25.76,United States,California,Sacramento,West
+B3-300491,2020-11-08,Publisher_057,Book_2014,Author_2337,Fiction,eBook,7,40.16,281.12,210.44,70.68,United States,Arizona,Tucson,West
+B3-300492,2023-05-11,Publisher_018,Book_4307,Author_1845,Fantasy,Hardcover,5,29.51,147.55,84.67,62.88,United States,Texas,Fort Worth,Central
+B3-300493,2023-07-30,Publisher_060,Book_969,Author_2180,History,Paperback,2,9.06,18.12,12.49,5.63,United States,Illinois,Springfield,Central
+B3-300494,2024-03-07,Publisher_013,Book_1349,Author_506,Mystery,Paperback,4,41.87,167.48,99.6,67.88,United States,California,San Jose,West
+B3-300495,2021-11-17,Publisher_008,Book_1428,Author_807,History,eBook,7,36.5,255.5,136.52,118.98,United States,Washington,Seattle,West
+B3-300496,2020-06-11,Publisher_042,Book_2724,Author_2133,Children,Paperback,1,18.47,18.47,13.39,5.08,United States,California,San Francisco,West
+B3-300497,2020-12-26,Publisher_013,Book_92,Author_184,History,Hardcover,2,9.46,18.92,14.21,4.71,United States,Texas,Dallas,Central
+B3-300498,2024-03-26,Publisher_042,Book_2927,Author_1196,Fiction,eBook,6,36.91,221.46,163.48,57.98,United States,Colorado,Colorado Springs,West
+B3-300499,2020-05-14,Publisher_038,Book_1967,Author_2999,Fantasy,Paperback,2,16.98,33.96,26.43,7.53,United States,California,Los Angeles,West
+B3-300500,2022-03-29,Publisher_057,Book_4950,Author_734,Self-Help,Audiobook,5,28.75,143.75,80.91,62.84,United States,Washington,Everett,West
+B3-300501,2022-11-05,Publisher_013,Book_4706,Author_2667,Fiction,Hardcover,3,42.43,127.29,79.63,47.66,United States,New York,Rochester,East
+B3-300502,2022-12-28,Publisher_032,Book_1689,Author_2457,Non-Fiction,Paperback,6,22.9,137.4,106.17,31.23,United States,New York,Syracuse,East
+B3-300503,2022-03-31,Publisher_037,Book_1774,Author_327,History,Hardcover,2,21.52,43.04,24.77,18.27,United States,Nevada,Las Vegas,West
+B3-300504,2023-01-08,Publisher_031,Book_3603,Author_736,Non-Fiction,eBook,3,36.7,110.1,84.45,25.65,United States,Illinois,Chicago,Central
+B3-300505,2020-09-23,Publisher_054,Book_1573,Author_1040,Mystery,Paperback,1,38.74,38.74,25.08,13.66,United States,Massachusetts,Cambridge,East
+B3-300506,2020-07-30,Publisher_004,Book_3885,Author_966,Fiction,Audiobook,2,37.68,75.36,38.12,37.24,United States,Texas,Fort Worth,Central
+B3-300507,2020-04-27,Publisher_012,Book_3375,Author_1973,Sci-Fi,Paperback,1,43.64,43.64,27.12,16.52,United States,Nevada,Las Vegas,West
+B3-300508,2023-04-11,Publisher_014,Book_4153,Author_1378,Fantasy,Hardcover,7,36.25,253.75,168.86,84.89,United States,Colorado,Colorado Springs,West
+B3-300509,2023-09-17,Publisher_044,Book_4308,Author_1154,Non-Fiction,Hardcover,7,43.22,302.54,154.06,148.48,United States,Nevada,Reno,West
+B3-300510,2020-07-08,Publisher_033,Book_1042,Author_2917,History,Paperback,7,44.87,314.09,158.0,156.09,United States,Texas,San Antonio,Central
+B3-300511,2020-04-15,Publisher_033,Book_3467,Author_1751,Non-Fiction,eBook,2,17.02,34.04,26.37,7.67,United States,Colorado,Denver,West
+B3-300512,2023-03-17,Publisher_041,Book_4729,Author_2095,Fantasy,eBook,4,42.65,170.6,98.03,72.57,United States,California,Los Angeles,West
+B3-300513,2024-04-02,Publisher_055,Book_4222,Author_2437,Sci-Fi,Hardcover,4,36.14,144.56,82.63,61.93,United States,Massachusetts,Springfield,East
+B3-300514,2023-08-19,Publisher_048,Book_261,Author_2670,History,Paperback,3,40.12,120.36,82.82,37.54,United States,Colorado,Denver,West
+B3-300515,2022-03-27,Publisher_031,Book_2857,Author_1348,History,Hardcover,1,40.21,40.21,29.59,10.62,United States,Arizona,Tucson,West
+B3-300516,2020-10-12,Publisher_013,Book_3320,Author_1422,Fantasy,Paperback,6,19.5,117.0,87.1,29.9,United States,Texas,Dallas,Central
+B3-300517,2021-03-20,Publisher_022,Book_338,Author_2330,Non-Fiction,Hardcover,6,36.14,216.84,164.49,52.35,United States,Colorado,Aurora,West
+B3-300518,2022-11-01,Publisher_043,Book_4263,Author_158,Fantasy,eBook,6,13.95,83.7,65.8,17.9,United States,California,San Francisco,West
+B3-300519,2024-12-02,Publisher_059,Book_1670,Author_1485,Sci-Fi,Hardcover,6,43.15,258.9,180.25,78.65,United States,Massachusetts,Lowell,East
+B3-300520,2022-07-11,Publisher_025,Book_2756,Author_620,Sci-Fi,Hardcover,6,42.82,256.92,203.62,53.3,United States,California,San Diego,West
+B3-300521,2020-01-27,Publisher_035,Book_4183,Author_2690,Non-Fiction,eBook,7,15.21,106.47,79.9,26.57,United States,Illinois,Aurora,Central
+B3-300522,2021-04-27,Publisher_013,Book_2831,Author_2239,Sci-Fi,Paperback,1,44.14,44.14,32.36,11.78,United States,Massachusetts,Boston,East
+B3-300523,2024-04-17,Publisher_030,Book_4501,Author_2591,History,Paperback,1,29.9,29.9,17.59,12.31,United States,Florida,Miami,South
+B3-300524,2023-08-17,Publisher_010,Book_4396,Author_613,Children,Hardcover,7,11.47,80.29,51.23,29.06,United States,Massachusetts,Springfield,East
+B3-300525,2020-08-17,Publisher_048,Book_1056,Author_1167,History,Paperback,7,28.57,199.99,117.77,82.22,United States,California,San Diego,West
+B3-300526,2024-07-13,Publisher_027,Book_179,Author_1114,Fantasy,eBook,4,6.12,24.48,12.64,11.84,United States,Illinois,Naperville,Central
+B3-300527,2020-10-26,Publisher_048,Book_4951,Author_290,Fiction,Hardcover,4,32.9,131.6,105.17,26.43,United States,Washington,Bellevue,West
+B3-300528,2021-12-19,Publisher_031,Book_3284,Author_991,Mystery,Audiobook,1,34.64,34.64,24.21,10.43,United States,Texas,San Antonio,Central
+B3-300529,2023-11-22,Publisher_050,Book_3082,Author_1959,Mystery,Audiobook,1,28.64,28.64,19.31,9.33,United States,Massachusetts,Lowell,East
+B3-300530,2023-12-26,Publisher_030,Book_2337,Author_2046,Fiction,Paperback,3,6.08,18.24,10.78,7.46,United States,Washington,Bellevue,West
+B3-300531,2023-08-11,Publisher_023,Book_1480,Author_465,Non-Fiction,Hardcover,1,32.91,32.91,18.01,14.9,United States,Washington,Seattle,West
+B3-300532,2020-05-04,Publisher_003,Book_3827,Author_1728,Fiction,Audiobook,4,44.74,178.96,112.82,66.14,United States,Washington,Spokane,West
+B3-300533,2022-02-25,Publisher_029,Book_4535,Author_1493,History,Hardcover,7,5.03,35.21,27.12,8.09,United States,Illinois,Joliet,Central
+B3-300534,2023-07-07,Publisher_028,Book_656,Author_834,Sci-Fi,Paperback,5,39.94,199.7,117.27,82.43,United States,California,Sacramento,West
+B3-300535,2020-01-03,Publisher_014,Book_13,Author_1837,Fantasy,Hardcover,4,18.95,75.8,51.81,23.99,United States,Massachusetts,Lowell,East
+B3-300536,2023-08-04,Publisher_033,Book_3349,Author_1605,Fiction,Paperback,6,42.93,257.58,155.03,102.55,United States,California,Sacramento,West
+B3-300537,2021-02-25,Publisher_055,Book_584,Author_2533,Sci-Fi,Audiobook,1,11.23,11.23,7.4,3.83,United States,Colorado,Denver,West
+B3-300538,2021-06-02,Publisher_038,Book_324,Author_69,Mystery,Paperback,6,35.34,212.04,139.71,72.33,United States,Arizona,Phoenix,West
+B3-300539,2020-09-22,Publisher_023,Book_4590,Author_284,Children,Hardcover,4,36.2,144.8,86.46,58.34,United States,Colorado,Boulder,West
+B3-300540,2020-10-23,Publisher_020,Book_4591,Author_2893,Sci-Fi,Paperback,7,38.88,272.16,217.0,55.16,United States,Washington,Spokane,West
+B3-300541,2024-04-23,Publisher_023,Book_2132,Author_2742,Self-Help,Hardcover,1,26.26,26.26,18.4,7.86,United States,California,Sacramento,West
+B3-300542,2021-01-04,Publisher_036,Book_4295,Author_1006,Sci-Fi,Audiobook,4,36.19,144.76,75.4,69.36,United States,Illinois,Joliet,Central
+B3-300543,2024-05-13,Publisher_020,Book_1565,Author_1998,Mystery,Hardcover,2,16.98,33.96,25.77,8.19,United States,Illinois,Springfield,Central
+B3-300544,2022-02-05,Publisher_024,Book_4802,Author_1830,Fantasy,Hardcover,7,43.89,307.23,204.03,103.2,United States,Massachusetts,Springfield,East
+B3-300545,2021-10-21,Publisher_051,Book_83,Author_1424,Self-Help,Hardcover,5,39.8,199.0,124.86,74.14,United States,Texas,Fort Worth,Central
+B3-300546,2024-06-22,Publisher_047,Book_4344,Author_1395,Fiction,Paperback,7,5.47,38.29,22.19,16.1,United States,Washington,Bellevue,West
+B3-300547,2023-11-05,Publisher_002,Book_3048,Author_2394,Mystery,Paperback,3,44.42,133.26,85.72,47.54,United States,Colorado,Boulder,West
+B3-300548,2021-04-09,Publisher_050,Book_2327,Author_921,History,Hardcover,5,22.7,113.5,83.1,30.4,United States,New York,Albany,East
+B3-300549,2021-10-26,Publisher_060,Book_122,Author_2084,Non-Fiction,eBook,7,11.4,79.8,44.45,35.35,United States,Texas,Houston,Central
+B3-300550,2024-04-15,Publisher_032,Book_1390,Author_1659,Children,Paperback,5,17.85,89.25,68.71,20.54,United States,California,San Francisco,West
+B3-300551,2023-08-10,Publisher_006,Book_2528,Author_2500,Fiction,Paperback,7,9.8,68.6,54.55,14.05,United States,Nevada,Henderson,West
+B3-300552,2023-08-21,Publisher_006,Book_394,Author_2669,History,Hardcover,6,41.3,247.8,180.97,66.83,United States,California,San Diego,West
+B3-300553,2020-11-12,Publisher_047,Book_2519,Author_1858,Sci-Fi,Hardcover,5,44.69,223.45,143.22,80.23,United States,Arizona,Chandler,West
+B3-300554,2021-09-09,Publisher_016,Book_3921,Author_2273,Sci-Fi,Paperback,5,27.68,138.4,106.14,32.26,United States,Massachusetts,Cambridge,East
+B3-300555,2021-04-08,Publisher_022,Book_4759,Author_2788,Self-Help,eBook,3,7.59,22.77,18.2,4.57,United States,Texas,Austin,Central
+B3-300556,2021-08-03,Publisher_013,Book_4827,Author_2721,Children,Paperback,1,11.94,11.94,8.4,3.54,United States,Colorado,Aurora,West
+B3-300557,2022-09-03,Publisher_020,Book_2005,Author_1521,Mystery,Paperback,7,32.0,224.0,170.96,53.04,United States,Massachusetts,Springfield,East
+B3-300558,2023-12-15,Publisher_043,Book_3905,Author_2783,Mystery,Paperback,6,37.82,226.92,138.25,88.67,United States,Washington,Spokane,West
+B3-300559,2022-11-13,Publisher_007,Book_2411,Author_2680,Non-Fiction,Audiobook,6,36.8,220.8,146.8,74.0,United States,Washington,Seattle,West
+B3-300560,2022-02-18,Publisher_027,Book_3939,Author_1816,Fiction,Paperback,3,32.4,97.2,68.04,29.16,United States,New York,Albany,East
+B3-300561,2022-10-04,Publisher_018,Book_4098,Author_119,Fantasy,Paperback,5,31.89,159.45,103.8,55.65,United States,Nevada,North Las Vegas,West
+B3-300562,2021-11-24,Publisher_009,Book_3489,Author_810,Fiction,Paperback,1,9.46,9.46,5.08,4.38,United States,Florida,Jacksonville,South
+B3-300563,2021-07-24,Publisher_001,Book_179,Author_1679,Sci-Fi,Paperback,2,24.83,49.66,28.25,21.41,United States,Massachusetts,Cambridge,East
+B3-300564,2023-09-10,Publisher_054,Book_3525,Author_88,Children,Hardcover,4,17.22,68.88,50.94,17.94,United States,Arizona,Tucson,West
+B3-300565,2021-04-19,Publisher_020,Book_3845,Author_131,Fantasy,eBook,5,28.82,144.1,82.6,61.5,United States,Florida,Orlando,South
+B3-300566,2024-05-03,Publisher_030,Book_2520,Author_1506,Mystery,Paperback,5,5.6,28.0,18.48,9.52,United States,Washington,Bellevue,West
+B3-300567,2023-02-02,Publisher_045,Book_958,Author_15,Non-Fiction,eBook,7,14.63,102.41,72.33,30.08,United States,California,Sacramento,West
+B3-300568,2023-06-08,Publisher_028,Book_3048,Author_1236,History,Hardcover,6,6.55,39.3,21.86,17.44,United States,Florida,Orlando,South
+B3-300569,2021-10-25,Publisher_001,Book_4226,Author_1388,Mystery,Paperback,7,22.63,158.41,105.56,52.85,United States,Florida,Jacksonville,South
+B3-300570,2022-08-31,Publisher_048,Book_4682,Author_2930,Children,Hardcover,4,31.09,124.36,68.46,55.9,United States,Nevada,Sparks,West
+B3-300571,2023-05-15,Publisher_016,Book_4019,Author_1552,History,eBook,6,40.09,240.54,159.72,80.82,United States,Illinois,Springfield,Central
+B3-300572,2023-07-23,Publisher_007,Book_2982,Author_2704,Fiction,Paperback,7,7.49,52.43,30.45,21.98,United States,Massachusetts,Lowell,East
+B3-300573,2020-11-27,Publisher_028,Book_380,Author_2193,Sci-Fi,Hardcover,3,25.97,77.91,41.58,36.33,United States,Nevada,Reno,West
+B3-300574,2022-05-25,Publisher_037,Book_3802,Author_1127,Fantasy,Audiobook,7,21.66,151.62,98.37,53.25,United States,New York,New York,East
+B3-300575,2022-06-02,Publisher_048,Book_3626,Author_2594,Fiction,Hardcover,6,44.89,269.34,194.81,74.53,United States,Colorado,Boulder,West
+B3-300576,2021-01-25,Publisher_023,Book_4260,Author_2645,Self-Help,Paperback,4,9.55,38.2,21.58,16.62,United States,Arizona,Tucson,West
+B3-300577,2022-03-24,Publisher_049,Book_1860,Author_1085,Sci-Fi,eBook,6,38.04,228.24,132.0,96.24,United States,Colorado,Aurora,West
+B3-300578,2020-11-25,Publisher_047,Book_4702,Author_2263,History,Hardcover,3,42.68,128.04,85.29,42.75,United States,Arizona,Tucson,West
+B3-300579,2022-05-16,Publisher_056,Book_4306,Author_972,History,Paperback,3,22.64,67.92,51.3,16.62,United States,New York,Syracuse,East
+B3-300580,2022-07-09,Publisher_041,Book_2235,Author_1664,Children,eBook,4,21.42,85.68,62.11,23.57,United States,Texas,San Antonio,Central
+B3-300581,2020-01-02,Publisher_045,Book_2827,Author_1816,Children,eBook,6,30.99,185.94,97.98,87.96,United States,Nevada,Las Vegas,West
+B3-300582,2024-01-28,Publisher_012,Book_1283,Author_2334,Fantasy,Paperback,7,11.76,82.32,60.21,22.11,United States,Illinois,Naperville,Central
+B3-300583,2023-09-12,Publisher_033,Book_1989,Author_170,Non-Fiction,Paperback,2,37.26,74.52,51.04,23.48,United States,Texas,Austin,Central
+B3-300584,2022-09-13,Publisher_052,Book_4523,Author_1709,Sci-Fi,Paperback,7,22.97,160.79,104.11,56.68,United States,Arizona,Phoenix,West
+B3-300585,2024-02-18,Publisher_044,Book_379,Author_2557,Fiction,eBook,5,40.62,203.1,105.43,97.67,United States,Texas,Houston,Central
+B3-300586,2021-05-02,Publisher_005,Book_4018,Author_2175,Non-Fiction,Paperback,6,25.16,150.96,94.08,56.88,United States,Florida,Miami,South
+B3-300587,2024-02-11,Publisher_053,Book_3409,Author_2690,Self-Help,Audiobook,2,44.4,88.8,56.0,32.8,United States,Florida,Tampa,South
+B3-300588,2020-07-22,Publisher_033,Book_4444,Author_1967,Self-Help,Paperback,7,23.27,162.89,125.14,37.75,United States,Illinois,Chicago,Central
+B3-300589,2023-11-11,Publisher_026,Book_561,Author_1469,Non-Fiction,Paperback,1,43.65,43.65,27.72,15.93,United States,Texas,San Antonio,Central
+B3-300590,2023-03-09,Publisher_006,Book_2178,Author_924,Mystery,Paperback,4,13.68,54.72,34.94,19.78,United States,Florida,Jacksonville,South
+B3-300591,2022-02-25,Publisher_047,Book_1806,Author_2255,Fiction,Hardcover,4,42.61,170.44,128.36,42.08,United States,New York,Rochester,East
+B3-300592,2022-08-28,Publisher_026,Book_4088,Author_1569,Fiction,Paperback,3,29.27,87.81,63.77,24.04,United States,Nevada,Reno,West
+B3-300593,2024-03-09,Publisher_056,Book_3897,Author_2400,Fiction,Paperback,7,41.59,291.13,181.05,110.08,United States,Massachusetts,Worcester,East
+B3-300594,2023-02-24,Publisher_005,Book_584,Author_698,Sci-Fi,Hardcover,4,44.03,176.12,133.42,42.7,United States,Colorado,Denver,West
+B3-300595,2021-04-04,Publisher_011,Book_3568,Author_1338,Sci-Fi,Paperback,2,13.48,26.96,16.58,10.38,United States,Massachusetts,Lowell,East
+B3-300596,2024-02-15,Publisher_009,Book_895,Author_2493,Fantasy,Paperback,6,26.45,158.7,99.95,58.75,United States,New York,Syracuse,East
+B3-300597,2021-04-06,Publisher_054,Book_927,Author_1752,Fiction,Paperback,6,5.72,34.32,25.55,8.77,United States,Massachusetts,Boston,East
+B3-300598,2022-03-07,Publisher_047,Book_2752,Author_2274,Fiction,Audiobook,6,39.13,234.78,150.09,84.69,United States,Illinois,Aurora,Central
+B3-300599,2024-03-05,Publisher_042,Book_1793,Author_1830,Sci-Fi,Hardcover,4,14.84,59.36,44.06,15.3,United States,Washington,Spokane,West
+B3-300600,2022-02-11,Publisher_007,Book_3488,Author_2095,Fiction,eBook,7,26.49,185.43,104.66,80.77,United States,Arizona,Mesa,West
+B3-300601,2020-02-29,Publisher_004,Book_1161,Author_692,Self-Help,eBook,1,30.09,30.09,21.65,8.44,United States,New York,Buffalo,East
+B3-300602,2022-04-12,Publisher_046,Book_2714,Author_236,Fantasy,Hardcover,2,43.35,86.7,64.62,22.08,United States,California,San Diego,West
+B3-300603,2024-05-28,Publisher_017,Book_2616,Author_1405,Fiction,Hardcover,2,18.06,36.12,22.49,13.63,United States,Florida,Miami,South
+B3-300604,2020-05-27,Publisher_023,Book_2045,Author_1126,Fantasy,Hardcover,1,28.44,28.44,15.87,12.57,United States,Washington,Everett,West
+B3-300605,2021-01-15,Publisher_046,Book_2793,Author_2540,Children,Paperback,6,13.86,83.16,54.25,28.91,United States,Washington,Spokane,West
+B3-300606,2024-12-29,Publisher_034,Book_2442,Author_1124,Fiction,Paperback,2,18.42,36.84,24.0,12.84,United States,California,Sacramento,West
+B3-300607,2023-06-13,Publisher_012,Book_1682,Author_994,Fantasy,Audiobook,3,42.61,127.83,74.76,53.07,United States,Washington,Bellevue,West
+B3-300608,2022-05-26,Publisher_051,Book_1351,Author_2486,Sci-Fi,Hardcover,1,16.79,16.79,11.07,5.72,United States,Florida,Tallahassee,South
+B3-300609,2022-08-14,Publisher_030,Book_1350,Author_794,Children,Hardcover,1,34.31,34.31,22.75,11.56,United States,Texas,San Antonio,Central
+B3-300610,2021-11-10,Publisher_053,Book_4375,Author_729,Fantasy,eBook,5,32.12,160.6,99.66,60.94,United States,California,Los Angeles,West
+B3-300611,2023-02-05,Publisher_019,Book_2352,Author_2496,Fiction,Paperback,7,28.69,200.83,112.97,87.86,United States,Washington,Tacoma,West
+B3-300612,2023-07-16,Publisher_058,Book_2493,Author_2164,Sci-Fi,Paperback,7,6.58,46.06,34.77,11.29,United States,Massachusetts,Lowell,East
+B3-300613,2022-05-07,Publisher_030,Book_304,Author_1272,Self-Help,eBook,3,30.82,92.46,51.39,41.07,United States,Massachusetts,Springfield,East
+B3-300614,2024-03-27,Publisher_037,Book_3657,Author_2845,History,eBook,6,8.75,52.5,41.66,10.84,United States,Illinois,Aurora,Central
+B3-300615,2021-05-29,Publisher_054,Book_4777,Author_2637,Mystery,Hardcover,2,39.0,78.0,43.7,34.3,United States,Washington,Everett,West
+B3-300616,2022-04-01,Publisher_051,Book_3641,Author_1770,Fantasy,Hardcover,3,13.81,41.43,21.85,19.58,United States,Colorado,Aurora,West
+B3-300617,2021-04-12,Publisher_038,Book_755,Author_486,Fiction,eBook,5,9.53,47.65,24.89,22.76,United States,California,Sacramento,West
+B3-300618,2024-03-05,Publisher_044,Book_2872,Author_2969,Self-Help,Hardcover,3,17.89,53.67,33.68,19.99,United States,Colorado,Aurora,West
+B3-300619,2022-05-26,Publisher_033,Book_4950,Author_1356,History,Audiobook,5,44.52,222.6,121.62,100.98,United States,Texas,Austin,Central
+B3-300620,2022-05-26,Publisher_044,Book_2434,Author_2162,Mystery,eBook,3,15.2,45.6,33.86,11.74,United States,New York,New York,East
+B3-300621,2022-05-12,Publisher_011,Book_4229,Author_237,Sci-Fi,Paperback,2,20.32,40.64,22.59,18.05,United States,Arizona,Phoenix,West
+B3-300622,2024-12-17,Publisher_053,Book_1995,Author_143,Fiction,Hardcover,4,25.22,100.88,50.96,49.92,United States,Illinois,Naperville,Central
+B3-300623,2021-02-08,Publisher_059,Book_758,Author_2693,Fantasy,Hardcover,6,35.8,214.8,139.93,74.87,United States,Washington,Everett,West
+B3-300624,2021-06-28,Publisher_040,Book_86,Author_2324,History,Paperback,7,28.49,199.43,113.0,86.43,United States,Washington,Everett,West
+B3-300625,2024-05-28,Publisher_035,Book_491,Author_329,Fiction,Paperback,1,34.26,34.26,25.98,8.28,United States,Nevada,Sparks,West
+B3-300626,2021-01-09,Publisher_024,Book_474,Author_1893,History,Paperback,2,23.7,47.4,24.26,23.14,United States,Washington,Seattle,West
+B3-300627,2020-07-30,Publisher_047,Book_3477,Author_393,Self-Help,Paperback,5,36.24,181.2,118.64,62.56,United States,Nevada,Las Vegas,West
+B3-300628,2023-04-20,Publisher_037,Book_3034,Author_277,Fantasy,Paperback,6,44.3,265.8,188.29,77.51,United States,Massachusetts,Lowell,East
+B3-300629,2020-08-28,Publisher_049,Book_4592,Author_2601,Sci-Fi,Paperback,2,35.93,71.86,54.2,17.66,United States,Massachusetts,Boston,East
+B3-300630,2024-09-03,Publisher_023,Book_4179,Author_383,Self-Help,Audiobook,5,10.74,53.7,38.89,14.81,United States,Massachusetts,Cambridge,East
+B3-300631,2023-12-26,Publisher_006,Book_2753,Author_2161,Self-Help,Hardcover,2,28.85,57.7,39.76,17.94,United States,Arizona,Tucson,West
+B3-300632,2020-03-27,Publisher_011,Book_4509,Author_716,Children,Hardcover,7,41.52,290.64,159.96,130.68,United States,Texas,Austin,Central
+B3-300633,2022-10-21,Publisher_021,Book_2741,Author_1109,Self-Help,Paperback,3,32.64,97.92,72.02,25.9,United States,Illinois,Aurora,Central
+B3-300634,2024-10-07,Publisher_022,Book_3513,Author_786,Self-Help,Hardcover,7,26.17,183.19,139.97,43.22,United States,Arizona,Scottsdale,West
+B3-300635,2020-08-02,Publisher_033,Book_3829,Author_1373,History,Audiobook,7,40.66,284.62,223.28,61.34,United States,Arizona,Tucson,West
+B3-300636,2021-04-24,Publisher_048,Book_4210,Author_749,Self-Help,Hardcover,6,28.42,170.52,136.27,34.25,United States,Washington,Everett,West
+B3-300637,2020-11-11,Publisher_020,Book_905,Author_2175,Fantasy,Paperback,3,7.27,21.81,11.17,10.64,United States,Florida,Orlando,South
+B3-300638,2020-06-29,Publisher_002,Book_2882,Author_1598,Fiction,Paperback,7,27.73,194.11,120.0,74.11,United States,Texas,Houston,Central
+B3-300639,2020-04-21,Publisher_043,Book_4804,Author_2011,Children,Hardcover,5,11.08,55.4,29.79,25.61,United States,Texas,Houston,Central
+B3-300640,2021-01-17,Publisher_014,Book_4594,Author_2059,History,Hardcover,6,29.56,177.36,120.61,56.75,United States,Texas,Dallas,Central
+B3-300641,2023-05-28,Publisher_053,Book_874,Author_1441,Mystery,eBook,2,35.38,70.76,41.32,29.44,United States,Washington,Bellevue,West
+B3-300642,2020-08-30,Publisher_038,Book_2044,Author_1099,Fiction,Hardcover,7,23.67,165.69,87.12,78.57,United States,Washington,Everett,West
+B3-300643,2023-11-30,Publisher_005,Book_2258,Author_1427,History,Paperback,3,6.13,18.39,12.06,6.33,United States,Illinois,Naperville,Central
+B3-300644,2024-06-18,Publisher_040,Book_1339,Author_1074,Fantasy,Paperback,3,20.92,62.76,47.68,15.08,United States,Illinois,Springfield,Central
+B3-300645,2024-07-26,Publisher_049,Book_1524,Author_1620,Mystery,Paperback,4,6.72,26.88,15.03,11.85,United States,Massachusetts,Worcester,East
+B3-300646,2020-10-31,Publisher_028,Book_1076,Author_439,Sci-Fi,Paperback,5,18.53,92.65,67.91,24.74,United States,California,San Jose,West
+B3-300647,2024-10-23,Publisher_057,Book_3264,Author_345,Children,Paperback,6,26.22,157.32,84.19,73.13,United States,Washington,Tacoma,West
+B3-300648,2021-11-10,Publisher_047,Book_1827,Author_1593,Mystery,eBook,1,34.66,34.66,26.54,8.12,United States,New York,New York,East
+B3-300649,2022-08-19,Publisher_017,Book_4086,Author_1431,Mystery,eBook,4,38.87,155.48,80.16,75.32,United States,Washington,Seattle,West
+B3-300650,2020-07-01,Publisher_048,Book_169,Author_1377,Fantasy,Hardcover,2,16.07,32.14,17.27,14.87,United States,Texas,Fort Worth,Central
+B3-300651,2024-05-27,Publisher_050,Book_3459,Author_1730,Fantasy,eBook,5,12.01,60.05,33.45,26.6,United States,Massachusetts,Worcester,East
+B3-300652,2021-01-10,Publisher_013,Book_118,Author_2606,Fantasy,eBook,2,10.63,21.26,12.67,8.59,United States,Florida,Tampa,South
+B3-300653,2021-04-13,Publisher_007,Book_2674,Author_325,Fiction,Audiobook,6,24.45,146.7,110.88,35.82,United States,Washington,Spokane,West
+B3-300654,2023-03-01,Publisher_047,Book_1323,Author_2578,Self-Help,Hardcover,2,24.88,49.76,37.05,12.71,United States,Massachusetts,Worcester,East
+B3-300655,2024-04-26,Publisher_044,Book_3164,Author_1596,Non-Fiction,Hardcover,3,11.44,34.32,25.0,9.32,United States,New York,Rochester,East
+B3-300656,2020-02-09,Publisher_012,Book_4524,Author_2444,Non-Fiction,Hardcover,2,37.49,74.98,55.22,19.76,United States,Colorado,Aurora,West
+B3-300657,2021-02-03,Publisher_022,Book_2308,Author_2692,History,Paperback,3,23.31,69.93,45.57,24.36,United States,Washington,Spokane,West
+B3-300658,2021-06-03,Publisher_018,Book_4904,Author_1223,Children,Hardcover,6,43.18,259.08,182.56,76.52,United States,New York,New York,East
+B3-300659,2024-03-15,Publisher_050,Book_3747,Author_137,Children,Audiobook,5,6.29,31.45,16.75,14.7,United States,Texas,Fort Worth,Central
+B3-300660,2020-02-16,Publisher_026,Book_4986,Author_2366,Self-Help,Hardcover,4,41.94,167.76,110.1,57.66,United States,California,San Francisco,West
+B3-300661,2022-09-25,Publisher_032,Book_1216,Author_2697,Children,Hardcover,1,31.3,31.3,24.21,7.09,United States,Washington,Everett,West
+B3-300662,2022-01-13,Publisher_029,Book_1615,Author_1214,History,Paperback,2,7.98,15.96,11.68,4.28,United States,Florida,Tallahassee,South
+B3-300663,2022-04-25,Publisher_020,Book_251,Author_1291,Children,Paperback,3,21.56,64.68,36.45,28.23,United States,Illinois,Springfield,Central
+B3-300664,2022-10-17,Publisher_001,Book_3650,Author_2327,Fantasy,eBook,4,22.82,91.28,60.07,31.21,United States,Arizona,Mesa,West
+B3-300665,2020-10-22,Publisher_051,Book_3854,Author_2294,Non-Fiction,Audiobook,7,26.72,187.04,121.18,65.86,United States,Washington,Everett,West
+B3-300666,2020-10-22,Publisher_026,Book_3771,Author_2194,Non-Fiction,eBook,2,17.94,35.88,23.89,11.99,United States,Nevada,North Las Vegas,West
+B3-300667,2021-09-28,Publisher_010,Book_1477,Author_2389,Non-Fiction,Paperback,4,26.84,107.36,64.61,42.75,United States,Arizona,Phoenix,West
+B3-300668,2020-06-07,Publisher_047,Book_119,Author_2971,Self-Help,Paperback,2,37.03,74.06,41.2,32.86,United States,Illinois,Springfield,Central
+B3-300669,2022-11-12,Publisher_034,Book_3242,Author_2158,Non-Fiction,Hardcover,2,7.44,14.88,7.48,7.4,United States,Washington,Seattle,West
+B3-300670,2023-12-22,Publisher_003,Book_2684,Author_2572,Children,Hardcover,4,24.57,98.28,65.94,32.34,United States,Colorado,Colorado Springs,West
+B3-300671,2022-03-27,Publisher_059,Book_3789,Author_74,Self-Help,Paperback,5,34.52,172.6,125.38,47.22,United States,Massachusetts,Worcester,East
+B3-300672,2021-10-25,Publisher_014,Book_805,Author_2489,Sci-Fi,Audiobook,2,22.05,44.1,25.27,18.83,United States,Massachusetts,Springfield,East
+B3-300673,2021-06-19,Publisher_010,Book_2839,Author_2074,Fantasy,Paperback,7,19.31,135.17,76.09,59.08,United States,Massachusetts,Springfield,East
+B3-300674,2020-02-21,Publisher_051,Book_362,Author_2370,History,Paperback,6,42.4,254.4,154.08,100.32,United States,Florida,Tampa,South
+B3-300675,2022-07-30,Publisher_055,Book_42,Author_2219,Self-Help,eBook,6,34.69,208.14,125.6,82.54,United States,Texas,San Antonio,Central
+B3-300676,2022-09-24,Publisher_021,Book_4069,Author_2431,Non-Fiction,Hardcover,4,40.19,160.76,86.94,73.82,United States,Nevada,North Las Vegas,West
+B3-300677,2022-10-29,Publisher_003,Book_1817,Author_382,Children,Paperback,7,42.41,296.87,219.73,77.14,United States,Arizona,Tucson,West
+B3-300678,2022-04-10,Publisher_046,Book_4495,Author_56,Children,Hardcover,2,24.12,48.24,33.42,14.82,United States,New York,Rochester,East
+B3-300679,2023-06-26,Publisher_039,Book_568,Author_800,Fantasy,Audiobook,1,24.83,24.83,16.39,8.44,United States,Nevada,Las Vegas,West
+B3-300680,2020-11-18,Publisher_016,Book_884,Author_672,Sci-Fi,Hardcover,4,5.76,23.04,13.98,9.06,United States,Nevada,Sparks,West
+B3-300681,2022-01-01,Publisher_041,Book_2879,Author_112,Fantasy,Paperback,2,12.84,25.68,19.05,6.63,United States,Illinois,Joliet,Central
+B3-300682,2023-03-03,Publisher_001,Book_3646,Author_2478,Mystery,Audiobook,3,26.16,78.48,43.81,34.67,United States,Colorado,Boulder,West
+B3-300683,2024-01-06,Publisher_033,Book_902,Author_337,Sci-Fi,Hardcover,3,42.6,127.8,71.04,56.76,United States,Arizona,Phoenix,West
+B3-300684,2024-07-18,Publisher_036,Book_2919,Author_52,Mystery,Hardcover,2,42.92,85.84,48.79,37.05,United States,Texas,San Antonio,Central
+B3-300685,2022-09-23,Publisher_013,Book_4308,Author_1014,Self-Help,Paperback,2,22.15,44.3,23.96,20.34,United States,New York,Rochester,East
+B3-300686,2024-05-16,Publisher_049,Book_3758,Author_1200,Self-Help,Audiobook,1,14.07,14.07,9.06,5.01,United States,Texas,Houston,Central
+B3-300687,2024-02-11,Publisher_048,Book_3878,Author_180,Fiction,Paperback,1,26.18,26.18,13.69,12.49,United States,Texas,Houston,Central
+B3-300688,2024-03-21,Publisher_041,Book_2409,Author_1260,Fiction,Hardcover,3,23.99,71.97,47.17,24.8,United States,Massachusetts,Cambridge,East
+B3-300689,2024-11-06,Publisher_021,Book_571,Author_1419,Sci-Fi,eBook,5,31.75,158.75,124.19,34.56,United States,California,San Francisco,West
+B3-300690,2024-11-03,Publisher_027,Book_3056,Author_710,Fantasy,eBook,2,25.39,50.78,26.44,24.34,United States,Colorado,Colorado Springs,West
+B3-300691,2020-07-04,Publisher_028,Book_587,Author_1104,Fiction,Paperback,7,30.64,214.48,119.14,95.34,United States,California,Sacramento,West
+B3-300692,2020-08-24,Publisher_048,Book_4156,Author_1467,Mystery,Hardcover,7,22.17,155.19,97.03,58.16,United States,Arizona,Tucson,West
+B3-300693,2021-02-26,Publisher_054,Book_2665,Author_2547,Fantasy,Paperback,3,16.8,50.4,25.52,24.88,United States,Massachusetts,Cambridge,East
+B3-300694,2021-06-27,Publisher_021,Book_460,Author_741,Sci-Fi,Audiobook,6,17.8,106.8,68.0,38.8,United States,Arizona,Scottsdale,West
+B3-300695,2023-02-12,Publisher_008,Book_3125,Author_1144,Children,Paperback,6,18.57,111.42,65.6,45.82,United States,Nevada,North Las Vegas,West
+B3-300696,2022-05-02,Publisher_045,Book_1748,Author_357,Fantasy,Hardcover,2,13.75,27.5,17.14,10.36,United States,Nevada,Sparks,West
+B3-300697,2023-04-26,Publisher_045,Book_180,Author_2167,Self-Help,Paperback,5,44.74,223.7,166.57,57.13,United States,Washington,Everett,West
+B3-300698,2023-12-03,Publisher_050,Book_1098,Author_2410,Sci-Fi,Hardcover,3,9.34,28.02,15.69,12.33,United States,Washington,Tacoma,West
+B3-300699,2020-06-11,Publisher_057,Book_433,Author_2785,History,Paperback,5,16.45,82.25,65.19,17.06,United States,Washington,Bellevue,West
