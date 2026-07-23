@@ -1,1 +1,1 @@
-![Images][Images/GDP.png]
+![Images][Images/Python_GDP.png]
