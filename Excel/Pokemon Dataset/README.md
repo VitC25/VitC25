@@ -74,11 +74,13 @@ The clustered column chart highlights the differences between both Mega Evolutio
 ## Key observations:
 
 Mega Charizard X has:
-Higher Attack
-Higher Defense
+Higher Attack,
+Higher Defense,
+
 Mega Charizard Y has:
-Significantly higher Special Attack
-Better Special Defense
+Significantly higher Special Attack,
+Better Special Defense,
+
 Both share identical HP and Speed values.
 
 This comparison clearly demonstrates how each Mega Evolution serves a different battle strategy.
