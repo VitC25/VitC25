@@ -12,13 +12,21 @@ The dashboard combines Excel PivotTables, PivotCharts, filters, and slicers with
 
 ## 🛠️ Tools Used
 Microsoft Excel
+
 Pivot Tables
+
 Pivot Charts
+
 Filters
+
 Dashboard Design
+
 Python
+
 Pandas
+
 Data Grouping & Aggregation
+
 Pokémon Dataset (Generation 1–6)
 ## 📊 Dashboard Features
 1. Individual Pokémon Stat Analysis
@@ -118,12 +126,21 @@ Dragon-type Pokémon exhibit the highest average Attack among non-Legendary Pok�
 Combining Excel dashboards with Python analytics provides both interactive visualization and scalable data exploration.
 ## 💡 Skills Demonstrated
 Data Cleaning
+
 Data Transformation
+
 Pivot Tables
+
 Pivot Charts
+
 Interactive Dashboard Design
+
 Statistical Analysis
+
 Python (Pandas)
+
 Data Aggregation
+
 Data Visualization
+
 Analytical Reporting
