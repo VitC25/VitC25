@@ -1,1 +1,1 @@
-![images](VitC25/Tableau/images/Tableau_Dashboard.png)
+![images](Tableau_Dashborad.png)
