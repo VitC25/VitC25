@@ -87,14 +87,6 @@ grouped = filtered_df.groupby('Type 1')['Attack'].mean()
 
 This analysis calculates the average Attack stat for each primary Pokémon type while excluding Legendary Pokémon.
 
-Results
-Type	Average Attack
-Dragon	112.13
-Fighting	96.78
-Ground	95.75
-Rock	92.86
-Steel	92.70
-Dark	88.39
 Insights
 Dragon-type Pokémon possess the highest average Attack among non-Legendary Pokémon.
 Fighting and Ground types consistently rank among the strongest physical attackers.
