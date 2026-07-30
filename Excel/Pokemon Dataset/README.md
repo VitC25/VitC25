@@ -26,12 +26,19 @@ Pokémon Dataset (Generation 1–6)
 Users can select a Pokémon by its Pokédex number to instantly display:
 
 HP
+
 Attack
+
 Defense
+
 Special Attack
+
 Special Defense
+
 Speed
+
 Generation
+
 Primary & Secondary Type
 
 Example shown:
