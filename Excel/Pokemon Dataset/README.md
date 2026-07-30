@@ -41,17 +41,21 @@ Generation
 
 Primary & Secondary Type
 
-Example shown:
+## Example shown:
 
 Heracross (#214)
 
-Stat	Value
-HP	160
-Attack	310
-Defense	190
-Special Attack	80
-Speed	160
-Special Defense	200
+HP (160)
+
+Attack	(310)
+
+Defense	(190)
+
+Special Attack	(80)
+
+Speed	(160)
+
+Special Defense	(200)
 
 The accompanying pie chart visualizes how each stat contributes to the Pokémon's overall stat distribution, making it easy to identify dominant strengths. For Heracross, Attack is the highest attribute, confirming its role as a physical attacker.
 
@@ -62,6 +66,7 @@ The dashboard compares multiple forms of the same Pokémon.
 Example:
 
 Mega Charizard X
+
 Mega Charizard Y
 
 The clustered column chart highlights the differences between both Mega Evolutions.
