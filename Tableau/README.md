@@ -100,23 +100,27 @@ Meanwhile, the collective Other category demonstrates the competitive nature of 
 The dashboard reveals several major trends:
 
 📈 The video game industry experienced explosive growth after the late 1990s.
+
 🎮 Nintendo emerged as one of the most successful publishers in terms of global sales.
+
 🏢 Publishers steadily increased game production to meet growing market demand.
+
 🎯 Genre specialization appears to be a common strategy among major publishers.
+
 🌍 Despite dominant companies, the market remains diverse due to many smaller publishers.
 
 These findings illustrate both the rapid expansion of the gaming industry and the strategic differences between publishers that helped shape today's gaming landscape.
 
 ## 🛠️ Dashboard Features
-Global Sales by Publisher
-Video Game Releases by Year
-Publisher Release Trends
-Genre Distribution by Publisher
-Publisher Market Share Analysis
+- Global Sales by Publisher
+- Video Game Releases by Year
+- Publisher Release Trends
+- Genre Distribution by Publisher
+- Publisher Market Share Analysis
 
 ## Tools Used
 
-Tableau
-Video Game Sales Dataset
-Data Cleaning & Aggregation
-Interactive Dashboard Design
+- Tableau
+- Video Game Sales Dataset
+- Data Cleaning & Aggregation
+- Interactive Dashboard Design
