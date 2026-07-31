@@ -11,21 +11,14 @@ The objective of this project was to transform raw Pokémon data into an interac
 The dashboard combines Excel PivotTables, PivotCharts, filters, and slicers with Python for deeper statistical exploration.
 
 ## 🛠️ Tools Used
-Microsoft Excel
-
-Pivot Tables
-
-Pivot Charts
-
-Filters
-
-Dashboard Design
-
-Python
-
-Pandas
-
-Data Grouping & Aggregation
+- Microsoft Excel
+- Pivot Tables
+- Pivot Charts
+- Filters
+- Dashboard Design
+- Python
+- Pandas
+- Data Grouping & Aggregation
 
 Pokémon Dataset (Generation 1–6)
 ## 📊 Dashboard Features
@@ -33,37 +26,25 @@ Pokémon Dataset (Generation 1–6)
 
 Users can select a Pokémon by its Pokédex number to instantly display:
 
-HP
-
-Attack
-
-Defense
-
-Special Attack
-
-Special Defense
-
-Speed
-
-Generation
-
-Primary & Secondary Type
+- HP
+- Attack
+- Defense
+- Special Attack
+- Special Defense
+- Speed
+- Generation
+- Primary & Secondary Type
 
 ## Example shown:
 
-Heracross (#214)
+<u>Heracross (#214)<u>
 
-HP (160)
-
-Attack	(310)
-
-Defense	(190)
-
-Special Attack	(80)
-
-Speed	(160)
-
-Special Defense	(200)
+- HP (160)
+- Attack	(310)
+- Defense	(190)
+- Special Attack	(80)
+- Speed	(160)
+- Special Defense	(200)
 
 The accompanying pie chart visualizes how each stat contributes to the Pokémon's overall stat distribution, making it easy to identify dominant strengths. For Heracross, Attack is the highest attribute, confirming its role as a physical attacker.
 
