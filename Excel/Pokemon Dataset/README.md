@@ -3,7 +3,7 @@ Pokémon Statistics Dashboard (Excel + Python)
 
 This project explores Pokémon statistics through an interactive Excel dashboard and Python-based data analysis. The dashboard allows users to compare Pokémon attributes, analyse stat distributions, and evaluate different forms such as Mega Evolutions. Python was used alongside Excel to perform additional statistical analysis and validate insights from the dataset.
 
-My Excel file can be found clicking here - [Pokémon Dashboard](Pokemon_Dataset.xlsx)
+My Excel file can be found by clicking here - [Pokémon Dashboard](Pokemon_Dataset.xlsx)
 ## 📌 Project Overview
 ![Images](Images/Pokemon_Dashboard.png)
 The objective of this project was to transform raw Pokémon data into an interactive dashboard that highlights individual Pokémon strengths and enables meaningful comparisons across different generations, types, and evolutions.
