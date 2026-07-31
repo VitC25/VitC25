@@ -125,22 +125,13 @@ Mega Charizard Y specializes in powerful special attacks with improved Special D
 Dragon-type Pokémon exhibit the highest average Attack among non-Legendary Pokémon.
 Combining Excel dashboards with Python analytics provides both interactive visualization and scalable data exploration.
 ## 💡 Skills Demonstrated
-Data Cleaning
-
-Data Transformation
-
-Pivot Tables
-
-Pivot Charts
-
-Interactive Dashboard Design
-
-Statistical Analysis
-
-Python (Pandas)
-
-Data Aggregation
-
-Data Visualization
-
-Analytical Reporting
+- Data Cleaning
+- Data Transformation
+- Pivot Tables
+- Pivot Charts
+- Interactive Dashboard Design
+- Statistical Analysis
+- Python (Pandas)
+- Data Aggregation
+- Data Visualization
+- Analytical Reporting
