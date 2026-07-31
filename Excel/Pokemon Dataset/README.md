@@ -37,9 +37,7 @@ Users can select a Pokémon by its Pokédex number to instantly display:
 
 ## Example shown:
 
-<u>Heracross (#214)</u>
-
-<u>underlined</u>
+### Heracross (#214)
 
 - HP (160)
 - Attack	(310)
