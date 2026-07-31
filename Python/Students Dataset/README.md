@@ -42,7 +42,6 @@ data.duplicated().sum()
 
 These commands reveal column types, missing values, and duplicated rows.
 
-![Images](Images/Python_Student_Filtered.png)
 ## 3. Renaming the Marks Column
 
 ```python
@@ -158,6 +157,7 @@ Pandas uses the **sample standard deviation** by default (`ddof=1`). To calculat
 ```python
 data["scores"].std(ddof=0)
 ```
+![Images](Images/Python_Student_Filtered.png)
 
 ## 6. Selecting Rows with `.loc`
 
