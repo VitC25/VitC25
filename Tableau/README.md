@@ -11,11 +11,12 @@ I built this Tableau dashboard to explore global video game sales, publisher per
 
 The Global Sales per Publisher chart clearly shows Nintendo as one of the strongest individual publishers, second only to the aggregated "Other" category.
 
-## Observations:
+Observations:
 
 Nintendo consistently outperformed most major publishers.
 Electronic Arts, Sony Computer Entertainment, Activision, Ubisoft, and Sega also contributed significantly to global sales.
 The large "Other" category suggests the industry is highly fragmented with many smaller publishers collectively accounting for a substantial share of sales.
+
 2. Massive industry growth after the mid-1990s
 
 The Video Game Releases Per Year line chart reveals how rapidly the industry expanded.
