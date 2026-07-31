@@ -1,4 +1,4 @@
-![images](images/Tableau_Dashboard.png) ![images](images/Tableau_Dashboard_2.png)
+![images](images/Tableau_Dashboard.png)
 
 # 🎮 Video Game Sales & Publisher Analysis Dashboard
 
@@ -93,6 +93,8 @@ Ubisoft
 Capture a significant proportion of total global sales.
 
 Meanwhile, the collective Other category demonstrates the competitive nature of the gaming market, where numerous smaller publishers contribute meaningful sales despite lacking individual dominance.
+
+![images](images/Tableau_Dashboard_2.png)
 
 ## 📈 Overall Conclusions
 
