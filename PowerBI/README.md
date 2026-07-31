@@ -60,7 +60,9 @@ The city comparison highlights the strongest contributors.
 | Spokane |
 | Tacoma |
 | Syracuse |
+
 | Lower Performing Cities |
+| -------- |
 | Henderson |
 | Orlando |
 | Miami |
