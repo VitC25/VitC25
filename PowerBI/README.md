@@ -9,7 +9,9 @@ A link to the dashboard can be found here: https://app.powerbi.com/groups/me/das
 ## 📌 Dashboard Overview
 Key KPI
 Total Sales: 73.79K
+
 Target Achievement: 73.5K / 147K (~50%)
+
 Total Profit: 7.38K
 
 The dashboard indicates that while the business has generated respectable sales, it has achieved only about 50% of its target, suggesting there is significant room for improvement.
@@ -34,12 +36,9 @@ The business experiences irregular demand rather than steady growth. Investigati
 | Region	| Total Sales |
 |---------|-------------|
 | West | 39.39K |
-
-East	16.45K
-
-Central	12.70K
-
-South	4.96K
+| East	| 16.45K |
+| Central	| 12.70K |
+| South	| 4.96K |
 
 Observations:
 
@@ -54,18 +53,18 @@ Focus on understanding why the West region outperforms others and apply similar 
 
 The city comparison highlights the strongest contributors.
 
-Top Performing Cities
-Springfield
-Tucson
-Spokane
-Tacoma
-Syracuse
-Lower Performing Cities
-Henderson
-Orlando
-Miami
-Dallas
-Vallejo
+| Top Performing Cities |
+| Springfield |
+| Tucson |
+| Spokane |
+| Tacoma |
+| Syracuse |
+| Lower Performing Cities |
+| Henderson |
+| Orlando |
+| Miami |
+| Dallas |
+| Vallejo |
 
 Sales and profit generally move together, indicating that higher sales usually generate higher profits.
 
@@ -74,7 +73,9 @@ Key Insight
 Some cities generate substantial revenue while contributing comparatively less profit. These locations may have:
 
 Higher operating costs
+
 Larger discounts
+
 Lower-margin products
 
 These cities deserve further profitability analysis.
@@ -89,10 +90,10 @@ The city-level profit table shows noticeable differences:
 
 Highest visible profits include:
 
-Aurora
-Boston
-Cambridge
-Albany
+| Aurora |
+| Boston |
+| Cambridge |
+| Albany |
 
 Although profits are positive overall, the margin remains relatively modest compared to total sales.
 
