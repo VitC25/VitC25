@@ -42,10 +42,11 @@ The business experiences irregular demand rather than steady growth. Investigati
 
 Observations:
 
-The West region contributes over half of total revenue.
-East performs moderately well.
-South significantly underperforms compared to other regions.
-Recommendation
+- The West region contributes over half of total revenue.
+- East performs moderately well.
+- South significantly underperforms compared to other regions.
+
+## Recommendation
 
 Focus on understanding why the West region outperforms others and apply similar strategies to weaker regions, particularly the South.
 
@@ -71,28 +72,23 @@ The city comparison highlights the strongest contributors.
 
 Sales and profit generally move together, indicating that higher sales usually generate higher profits.
 
-Key Insight
+## Key Insight:
 
 Some cities generate substantial revenue while contributing comparatively less profit. These locations may have:
-
-Higher operating costs
-
-Larger discounts
-
-Lower-margin products
+- Higher operating costs
+- Larger discounts
+- Lower-margin products
 
 These cities deserve further profitability analysis.
 
 ## 💰 Profit Analysis
 
-Total Profit:
-
-7.38K
+Total Profit: 7.38K
 
 The city-level profit table shows noticeable differences:
 
-Highest visible profits include:
-
+| Highest visible profits |
+| ----------- |
 | Aurora |
 | Boston |
 | Cambridge |
@@ -100,16 +96,14 @@ Highest visible profits include:
 
 Although profits are positive overall, the margin remains relatively modest compared to total sales.
 
-Estimated Profit Margin:
-
-≈10%
+Estimated Profit Margin: ≈10%
 
 This suggests opportunities to improve profitability through:
 
-Pricing optimization
-Discount management
-Better product mix
-Operational efficiency
+- Pricing optimization
+- Discount management
+- Better product mix
+- Operational efficiency
 ## 🎯 Target Performance
 
 The gauge indicates:
@@ -117,33 +111,42 @@ The gauge indicates:
 Current Sales: 73.5K
 Target: 147K
 
-Achievement:
-
-≈50% of target
+Achievement: ≈50% of target
 
 This is one of the most important KPIs in the dashboard and signals that additional sales initiatives are required to meet business objectives.
 
 Possible actions include:
 
-Increasing customer acquisition
-Running targeted promotions
-Expanding high-performing product lines
-Improving sales coverage in weaker regions
+- Increasing customer acquisition
+- Running targeted promotions
+- Expanding high-performing product lines
+- Improving sales coverage in weaker regions
 ## 📊 Overall Insights
-Strengths
-Strong performance in the West region.
-Consistent positive profitability.
-Several cities contribute significantly to overall revenue.
-Sales remain relatively stable across multiple years.
-Weaknesses
-Only 50% of the sales target has been achieved.
-South region lags considerably.
-Monthly sales exhibit high volatility.
-Profit margins appear modest relative to sales.
+Strengths:
+- Strong performance in the West region.
+- Consistent positive profitability.
+- Several cities contribute significantly to overall revenue.
+- Sales remain relatively stable across multiple years.
+
+Weaknesses:
+
+- Only 50% of the sales target has been achieved.
+- South region lags considerably.
+- Monthly sales exhibit high volatility.
+- Profit margins appear modest relative to sales.
 
 
 ## 📌 Conclusion
 
 The dashboard provides a clear picture of business performance across sales, profit, regions, cities, and time. While the company maintains steady sales and positive profitability, it is currently achieving only around half of its sales target. The West region drives most of the revenue, whereas the South region presents the greatest opportunity for growth. By improving regional performance, optimizing profit margins, and replicating successful sales strategies, the business can move closer to achieving its overall objectives.
 
-Tools Used: Power BI • DAX • Data Modeling • Interactive Visualizations • KPI Cards • Line Charts • Bar Charts • Gauge Chart • Matrix Table
+## Tools Used: 
+- Power BI
+- DAX •
+- Data Modeling
+- Interactive Visualizations
+- KPI Cards
+- Line Charts
+- Bar Charts
+- Gauge Chart
+- Matrix Table
