@@ -1,3 +1,4 @@
+![Images}(Python_Students.png)
 # Student Performance Analysis with Python and Pandas
 
 This project demonstrates a simple exploratory data analysis workflow using **Python** and **Pandas**. The dataset contains student details such as ID, name, class, mark, and gender.
