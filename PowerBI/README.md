@@ -32,11 +32,17 @@ The business experiences irregular demand rather than steady growth. Investigati
 
 ## 🌍 Regional Performance
 Region	Total Sales
+
 West	39.39K
+
 East	16.45K
+
 Central	12.70K
+
 South	4.96K
-Observations
+
+Observations:
+
 The West region contributes over half of total revenue.
 East performs moderately well.
 South significantly underperforms compared to other regions.
