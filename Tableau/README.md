@@ -1,6 +1,7 @@
 ![images](images/Tableau_Dashboard.png)
 ![images](images/Tableau_Dashboard_2.png)
-#🎮 Video Game Sales & Publisher Analysis Dashboard
+
+# 🎮 Video Game Sales & Publisher Analysis Dashboard
 
 ## 📊 Video Game Industry Analysis (1980–2010)
 I built this Tableau dashboard to explore global video game sales, publisher performance, release trends, and genre distribution. The dashboard provides insights into how the gaming industry evolved over three decades and highlights which publishers dominated the market.
