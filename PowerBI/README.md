@@ -31,9 +31,9 @@ Key Insight:
 The business experiences irregular demand rather than steady growth. Investigating seasonal factors or promotional campaigns during peak months could help replicate successful periods.
 
 ## 🌍 Regional Performance
-Region	Total Sales
-
-West	39.39K
+| Region	| Total Sales |
+|---------|-------------|
+| West | 39.39K |
 
 East	16.45K
 
