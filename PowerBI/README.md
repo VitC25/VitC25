@@ -142,7 +142,7 @@ The dashboard provides a clear picture of business performance across sales, pro
 
 ## Tools Used: 
 - Power BI
-- DAX •
+- DAX
 - Data Modeling
 - Interactive Visualizations
 - KPI Cards
