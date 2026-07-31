@@ -24,8 +24,11 @@ The Video Game Releases Per Year line chart reveals how rapidly the industry exp
 ## Key trends:
 
 Very few games were released during the early 1980s.
+
 Releases began increasing steadily during the 1990s.
+
 A dramatic surge occurred between 2000 and 2008, where annual releases exceeded 1,400 titles.
+
 After 2008, releases declined slightly, possibly reflecting market saturation and the transition to newer console generations.
 
 This growth aligns with the rise of:
