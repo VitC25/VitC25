@@ -1,15 +1,11 @@
 ![images](images/Sales.png)
 
-# Introduction
-In this dashboard the data represents sales targets, profits and margins of quantities of items sol in different cities. The information has been gathered through years 2020 - 2024 which include sum's of sales/profit that are organised by city, time frames vs regions and the profit of cities overall.
-## Dashboard File
-A link to the dashboard can be found here: https://app.powerbi.com/groups/me/dashboards/d9c0c4af-7114-41fa-a314-d42f6a86d1f2?experience=power-bi
-
-
 # 📊 Sales Performance Dashboard Analysis | Power BI
 
 This dashboard provides a comprehensive overview of sales and profitability across different cities, regions, and time periods. It enables decision-makers to monitor business performance, identify high-performing locations, and uncover opportunities for growth.
 
+## Dashboard File
+A link to the dashboard can be found here: https://app.powerbi.com/groups/me/dashboards/d9c0c4af-7114-41fa-a314-d42f6a86d1f2?experience=power-bi
 ## 📌 Dashboard Overview
 Key KPI
 Total Sales: 73.79K
@@ -22,11 +18,15 @@ The dashboard indicates that while the business has generated respectable sales,
 
 The monthly sales trend reveals several important patterns:
 
-Sales fluctuate between $500 and $2.5K monthly.
-The highest sales peak occurred during 2022, reaching approximately $2.5K.
-Sales remain relatively stable but volatile, with no consistent upward growth trend.
-2024 continues to show fluctuations without sustained momentum.
-Key Insight
+Sales fluctuate between $500 and $2.5K monthly
+
+The highest sales peak occurred during 2022, reaching approximately $2.5K
+
+Sales remain relatively stable but volatile, with no consistent upward growth trend
+
+2024 continues to show fluctuations without sustained momentum
+
+Key Insight:
 
 The business experiences irregular demand rather than steady growth. Investigating seasonal factors or promotional campaigns during peak months could help replicate successful periods.
 
