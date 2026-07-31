@@ -91,7 +91,7 @@ Sony Computer Entertainment
 Activision
 Ubisoft
 
-capture a significant proportion of total global sales.
+Capture a significant proportion of total global sales.
 
 Meanwhile, the collective Other category demonstrates the competitive nature of the gaming market, where numerous smaller publishers contribute meaningful sales despite lacking individual dominance.
 
