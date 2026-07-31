@@ -46,13 +46,13 @@ Digital distribution
 
 The small multiple line charts (Publisher Releases Per Year) show release trends for each publisher.
 
-Some notable observations include:
+### Some notable observations include:
 
-Activision experienced strong growth in the mid-to-late 2000s.
-Electronic Arts maintained consistently high release volumes throughout the 2000s.
-Ubisoft expanded rapidly after the late 1990s.
-Nintendo exhibited more variation, focusing on quality over quantity.
-Smaller publishers maintained relatively stable release numbers.
+- Activision experienced strong growth in the mid-to-late 2000s.
+- Electronic Arts maintained consistently high release volumes throughout the 2000s.
+- Ubisoft expanded rapidly after the late 1990s.
+- Nintendo exhibited more variation, focusing on quality over quantity.
+- Smaller publishers maintained relatively stable release numbers.
 
 Overall, nearly every major publisher increased output as the gaming market expanded.
 
