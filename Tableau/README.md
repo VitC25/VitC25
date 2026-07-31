@@ -1,5 +1,4 @@
-![images](images/Tableau_Dashboard.png)
-![images](images/Tableau_Dashboard_2.png)
+![images](images/Tableau_Dashboard.png) ![images](images/Tableau_Dashboard_2.png)
 
 # 🎮 Video Game Sales & Publisher Analysis Dashboard
 
