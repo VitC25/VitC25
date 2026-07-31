@@ -1,1 +1,1 @@
-![images](images/Tableau_Dashborad.png)
+![images](images/Tableau_Dashboard.png)
