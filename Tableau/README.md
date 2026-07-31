@@ -21,7 +21,7 @@ The large "Other" category suggests the industry is highly fragmented with many 
 
 The Video Game Releases Per Year line chart reveals how rapidly the industry expanded.
 
-## Key trends:
+### Key trends:
 
 Very few games were released during the early 1980s.
 
@@ -34,10 +34,15 @@ After 2008, releases declined slightly, possibly reflecting market saturation an
 This growth aligns with the rise of:
 
 PlayStation
+
 Xbox
+
 Nintendo Wii
+
 PC gaming
+
 Digital distribution
+
 3. Publishers increased production over time
 
 The small multiple line charts (Publisher Releases Per Year) show release trends for each publisher.
