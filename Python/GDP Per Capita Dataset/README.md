@@ -4,8 +4,6 @@
 
 In this project, I performed a simple **Exploratory Data Analysis (EDA)** on a GDP per capita dataset using **Python** and **Pandas** in Google Colab. The objective was to understand the dataset structure and practice filtering data based on statistical conditions.
 
----
-
 ## 📂 Loading the Dataset
 
 The dataset was uploaded into Google Colab using the built-in upload widget.
@@ -31,8 +29,6 @@ df = pd.read_csv(
 * `encoding='unicode_escape'` prevents encoding errors caused by special characters.
 * `index_col=0` uses the first column as the DataFrame index.
 
----
-
 ## 📊 Exploring the Dataset
 
 Displaying the DataFrame gives an overview of the data.
@@ -54,7 +50,6 @@ The dataset contains **223 countries/territories** and **8 columns** including:
 
 This provides GDP per capita estimates from three different international organizations.
 
----
 ![Images](Images/Python_Countries_Below_Average.png)
 ## 📈 Filtering Countries Below the Average IMF Estimate
 
@@ -100,8 +95,6 @@ df[mask]
 
 returns only the rows where the condition is `True`.
 
----
-
 ## ⚠️ Observation
 
 The filtered results include countries such as:
@@ -115,7 +108,6 @@ These countries appear because their **IMF_Estimate is recorded as 0**, indicati
 
 This means the average is influenced by placeholder values.
 
----
 ![Images](Images/Python_Countries_Per_Region.png)
 ## 💡 Better Approach
 
@@ -130,8 +122,6 @@ below_average = df[df["IMF_Estimate"] < df["IMF_Estimate"].mean()]
 ```
 
 This produces a more accurate comparison because missing data no longer affects the mean.
-
----
 
 ## 📌 Key Pandas Concepts Used
 
