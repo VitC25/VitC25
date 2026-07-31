@@ -54,6 +54,7 @@ Focus on understanding why the West region outperforms others and apply similar 
 The city comparison highlights the strongest contributors.
 
 | Top Performing Cities |
+| -------------- |
 | Springfield |
 | Tucson |
 | Spokane |
